@@ -1,0 +1,158 @@
+
+<html>
+
+    <head>
+
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta name="description" content="">
+        <meta name="author" content="">
+        <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
+    
+        <title>Hexashop - Product Listing Page</title>
+    
+    
+        <!-- Additional CSS Files -->
+        <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
+    
+        <link rel="stylesheet" type="text/css" href="assets/css/font-awesome.css">
+    
+        <link rel="stylesheet" href="assets/css/templatemo-hexashop.css">
+    
+        <link rel="stylesheet" href="assets/css/owl-carousel.css">
+    
+        <link rel="stylesheet" href="assets/css/lightbox.css">
+    <!--
+    
+    TemplateMo 571 Hexashop
+    
+    https://templatemo.com/tm-571-hexashop
+    
+    -->
+        </head>
+    <section class="section" id="products">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="section-heading">
+                        <h2>Our Latest Products</h2>
+                        <span>Check out all of our products.</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4" id="elem1">
+                    <div class="item">
+                        <div class="thumb">
+                            <div class="hover-content">
+                                <ul>
+                                    <li><a href="single-product.html"><i class="fa fa-eye"></i></a></li>
+                                    <li><a href="single-product.html"><i class="fa fa-star"></i></a></li>
+                                    <li><a href="single-product.html"><i class="fa fa-shopping-cart"></i></a></li>
+                                </ul>
+                            </div>
+                            <img id="imgs" src="assets/images/men-01.jpg" alt="">
+                        </div>
+                        <div class="down-content">
+                            <h4 id="busname">Classic Spring</h4>
+                            <span id="phone">$120.00</span>
+                            <ul class="stars">
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <script src="business_search.js"></script>
+<script>
+ var first;
+    var directory=[];
+//json db code 
+jsonGetdata();
+function jsonGetdata(){
+    get ();
+  //alert(first);
+    var str="";
+const fetchPromise = fetch(first+'.json');
+
+
+
+fetchPromise.then((response) => {
+  const jsonPromise = response.json();
+  jsonPromise.then((data) => {
+    let storedata=0;
+    
+ //alert("inside fetch "+first);
+        for (let i=2;i<data.length;i++){
+                    str=str+data[i].name +"#"+data[i].phone+"#"+data[i].image+"#"+data[i].type;
+                    console.log(data[i].name +" "+data[i].phone+" "+data[i].image+" "+data[i].type);
+                    directory[i]=str;
+                    str=" ";
+            }
+            fetchPromise.then((response) => {
+                get () ;
+                Load_Business();
+        });
+//document.getElementById("para").innerHTML=str;
+ 
+  });
+});
+
+}
+
+
+
+function Load_Business(){
+     //var directory=["Shop1 0806-DIGI product1 product2 1.jpg","Shop2 0806-DIGI product1 product2 2.jpg","Shop3 080633-DIGI product1 product2 3.jpg","Shop4 0806-DIGI product1 product2 4.jpg","Shop5 0806-DIGI product1 product 5.jpg","Shop6 0806-DIGI product1 product2 6.jpg","Shop7 07050423665 product1 product2 7.jpg","Shop18 08062761608 product1 product2 8.jpg"];
+// Get the element
+// Create a copy of it
+//
+var newelem='';
+ // Update the ID and add a class
+ for (let i =2;i<directory.length;i++){
+    var elem = document.querySelector('#elem1');
+    var clone = elem.cloneNode(true);
+         document.getElementById("busname").innerHTML=directory[i].split("#")[0];
+          document.getElementById("phone").innerHTML=directory[i].split("#")[1];
+   // document.getElementById("prd1").innerHTML=directory[i].split(" ")[2];
+  //  document.getElementById("prd2").innerHTML=directory[i].split(" ")[3];
+    document.getElementById("imgs").src="assets/images/"+directory[i].split("#")[2];
+    newelem='elem'+i; 
+    
+    clone.id = newelem;
+clone.classList.add('text-large');
+// Inject it into the DOM
+elem.after(clone);
+ }
+}
+
+// get data from search
+function get () {
+
+   // alert("load session data");
+      // (A) GET FROM SESSION
+        first = sessionStorage.getItem("first"),
+          second = JSON.parse(sessionStorage.getItem("second"));
+//alert("i just got it "+first);
+      // (B) IT WORKS!
+      // MANUALLY OPENING 1B-SESSION.HTML WILL NOT WORK THOUGH
+      // SESSION DATA WILL PERISH ONCE TAB/WINDOW IS CLOSED
+ 
+      console.log(first);  // Foo Bar
+      console.log(second); // ["Hello", "World"]
+
+      // (EXTRA) CLEAR SESSION STORAGE
+      // sessionStorage.removeItem("KEY");
+      // sessionStorage.clear();
+    }
+
+</script>
+</html>
