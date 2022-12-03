@@ -1,100 +1,136 @@
 [
   {
-    "name" : "Blessed Ogbo-God Concept",
-    "phone" : "080-DIGI-BAY-342",
-    "image" : "1.jpg",
-    "type" : "vegetables"
-  },
-  {
-    "name" : "Furniture Collection",
-    "phone" : "080-DIGI-BAY-342",
-    "image" : "2.jpg",
-    "type" : "meat"
-  },
-  {
-    "name" : "Furniture",
-    "phone" : "080-DIGI-BAY-342",
-    "image" : "3.jpg",
-    "type" : "meat"
-  },
-  {
-    "name" : "Furniture  beans",
-    "phone" : "080-DIGI-BAY-342",
-    "image" : "4.jpg",
-    "type" : "vegetables"
-  },
-  {
-    "name" : "Furniture  beans",
-    "phone" : "080-DIGI-BAY-342",
-    "image" : "5.jpg",
-    "type" : "vegetables"
-  },
-  {
-    "name" : "Furniture  peas",
-    "phone" : "080-DIGI-BAY-342",
-    "image" : "6.jpg",
-    "type" : "vegetables"
-  },
-  {
-    "name" : "Furniture  peas",
-    "phone" : "080-DIGI-BAY-342",
-    "image" : "7.jpg",
-    "type" : "vegetables"
-  },
-  {
-    "name" : "Furniture  beef",
-    "phone" : "080-DIGI-BAY-342",
-    "image" : "8.jpg",
-    "type" : "meat"
-  },
-  {
-    "name" : "Furniture  soup",
-    "phone" : "080-DIGI-BAY-342",
-    "image" : "9.jpg",
-    "type" : "soup"
-  },
-  {
-    "name" : "Furniture tomatoes",
-    "phone" : "080-DIGI-BAY-342",
-    "image" : "10.jpg",
-    "type" : "vegetables"
-  },
-  {
-    "name" : "Furniture noodle soup",
-    "phone" : "080-DIGI-BAY-342",
-    "image" : "11.jpg",
-    "type" : "soup"
-  },
-  {
-    "name" : "Furniture and coriander soup",
-    "phone" : "080-DIGI-BAY-342",
-    "image" : "12.jpg",
-    "type" : "soup"
-  },
-  {
-    "name" : "Furniture tomatoes",
-    "phone" : "080-DIGI-BAY-342",
-    "image" : "13.jpg",
-    "type" : "vegetables"
-  },
-  {
-    "name" : "Furniture noodle soup",
-    "phone" : "080-DIGI-BAY-342",
-    "image" : "14.jpg",
-    "type" : "soup"
-  },
-  {
-    "name" : "Furniture and coriander soup",
-    "phone" : "080-DIGI-BAY-342",
-    "image" : "15.jpg",
-    "type" : "soup"
-  },
-  {
-    "name":"Pharmtouch Fashion Hub",
-    "phone":"08167336183",
-    "image":"3.jpg"
-    "type" :"Etegwe",
+    "name":"Base Furniture",
+    "phone":"0803 809 1551",
+    "image":"3.jpg",
+    "type":"OPOLO"
     },
+    {
+    "name":"Obi Best Furniture & Upholstry",
+    "phone":"080-DIGI-BAY-342",
+    "image":"2.jpg",
+    "type":"Update in Progress"
+    },
+    {
+    "name":"Ugo Legacy Furniture",
+    "phone":"07069119178",
+    "image":"2.jpg",
+    "type":"Amarata"
+    },
+    {
+    "name":"Topcom Furniture Amarata",
+    "phone":"080-DIGI-BAY-342",
+    "image":"3.jpg",
+    "type":"Update in Progress"
+    },
+    {
+    "name":"Don Royal Furniture Enterprise",
+    "phone":"080-DIGI-BAY-342",
+    "image":"2.jpg",
+    "type":"Amarata"
+    },
+    {
+    "name":"Triple C furniture",
+    "phone":"08030426921",
+    "image":"3.jpg",
+    "type":"Opolo"
+    },
+    {
+    "name":"OC SkyMate Furniture",
+    "phone":"08063551910",
+    "image":"2.jpg",
+    "type":"Update in Progress"
+    },
+    {
+    "name":"Avalanche of Mercy Furniture",
+    "phone":"080-DIGI-BAY-342",
+    "image":"2.jpg",
+    "type":"Opolo"
+    },
+    {
+    "name":"De Tiger Teeth Furniture",
+    "phone":"080-DIGI-BAY-342",
+    "image":"2.jpg",
+    "type":"Opolo"
+    },
+    {
+    "name":"Daniel Best Global Furniture",
+    "phone":"080-DIGI-BAY-342",
+    "image":"2.jpg",
+    "type":"Opolo"
+    },
+    {
+    "name":"World Class Furniture",
+    "phone":"07035879180",
+    "image":"3.jpg",
+    "type":"Opolo"
+    },
+    {
+    "name":"St. Innoccent Furniture",
+    "phone":"09068837521",
+    "image":"1.jpg",
+    "type":"Opolo"
+    },
+    {
+    "name":"Obinaco Global Furnitures",
+    "phone":"08164748894",
+    "image":"1.jpg",
+    "type":"Opolo"
+    },
+    {
+    "name":"Blessed Brothers Furniture",
+    "phone":"08164331262",
+    "image":"1.jpg",
+    "type":"Update in Progress"
+    },
+    {
+    "name":"Uality Base Furniture",
+    "phone":"07065087681",
+    "image":"3.jpg",
+    "type":"Biogbolo"
+    },
+    {
+    "name":"De Great Walter Furniture",
+    "phone":"09076934864",
+    "image":"3.jpg",
+    "type":"Opolo"
+    },
+    {
+    "name":"Aneru Furniture Global Empire",
+    "phone":"080-DIGI-BAY-342",
+    "image":"3.jpg",
+    "type":"Opolo"
+    },
+    {
+    "name":"De Blessed Franco Furnitures",
+    "phone":"080-DIGI-BAY-342",
+    "image":"2.jpg",
+    "type":"Opolo"
+    },
+    {
+    "name":"The Lord's Strength Enterprise",
+    "phone":"08067756759",
+    "image":"1.jpg",
+    "type":"Opolo"
+    },
+    {
+    "name":"De Easy-Way Furniture & Upholstery Home",
+    "phone":"08132776295",
+    "image":"2.jpg",
+    "type":"Update in Progress"
+    },
+    {
+    "name":"Big Brother Bayelsa",
+    "phone":"080-DIGI-BAY-342",
+    "image":"1.jpg",
+    "type":"Opolo"
+    },
+    {
+    "name":"Classic Furniture &  Upholstery Home",
+    "phone":"08161126653",
+    "image":"3.jpg",
+    "type":"Opolo"
+    }
     
   
 ]
