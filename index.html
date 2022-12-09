@@ -14,26 +14,25 @@
         <H1>Digi Bayelsa: Advertise your business here!</H1>
         <i><H4>Get added to thousands of businesses in our Directory!</H4></i>
         <div class="inner-form">
-          <div class="input-field first-wrap">
-            <input id="search" type="text" placeholder="What are you looking for?" />
-          </div>
+         <!-- <div class="input-field first-wrap">
+           <input id="search" type="text" placeholder="What are you looking for?" />
+          </div>--> 
           <div class="input-field second-wrap">
             <div class="input-select">
               <select id="catselect" data-trigger="" name="choices-single-defaul">
                 <option placeholder="">CATEGORY</option>
                 <option>Boutique</option>
-                <option>Photo Studio</option>
-                <option>Resturant</option>
                 <option>Cosmetics</option>
                 <option>Hospital</option>
                 <option>Pharmacy</option>
-                <option>Printing Press</option>
-                <option>Bookshop</option>
-                <option>Laboratory</option>
+                <option>Tailoring</option>
+                <option>Hair Salon</option>
                 <option>Furniture</option>
-                <option>Supermarkets</option>
                 <option>Wine Shops</option>
                 <option>Legal</option>
+                <option>Interior</option>
+                <option>Bedding</option>
+                <option>Kids</option>
               </select>
             </div>
           </div>
@@ -55,7 +54,22 @@
       {
         searchEnabled: false
       });
+function searchLogic(){
+  if (document.getElementById("catselect").value=="CATEGORY" && document.getElementById("searchtxt").value.length!=0){
+        alert("Search pattern 1");
+  }
+  if (document.getElementById("catselect").value!="CATEGORY" && document.getElementById("searchtxt").value.length==0){
+    alert("you Search pattern 2");
+          }
 
+    if (document.getElementById("catselect").value!="CATEGORY" && document.getElementById("searchtxt").value.length!=0){
+          alert("Search pattern 3");
+      }
+  if (document.getElementById("catselect").value=="CATEGORY" && document.getElementById("searchtxt").value.length==0){
+        alert("Search pattern 4");
+  }
+
+}
     </script>
   </body><!-- This templates was made by Colorlib (https://colorlib.com) -->
 </html>

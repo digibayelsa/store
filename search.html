@@ -9,7 +9,7 @@
         <meta name="author" content="">
         <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
     
-        <title>Hexashop - Product Listing Page</title>
+        <title>DigiBayelsa</title>
     
     
         <!-- Additional CSS Files -->
@@ -30,6 +30,7 @@
     
     -->
         </head>
+       <!-- <button id="myBtn" class="btn btn-one" style="width: 100% ; border: none; height: 100px ; background-color: rgb(104, 3, 219);  color: rgb(0, 0, 0); font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, serif; font-size: 39px;"  id="myBtn">See Business Info</button>-->
     <section class="section" id="products">
         <div class="container">
             <div class="row">
@@ -46,25 +47,26 @@
                 <div class="col-lg-4" id="elem1">
                     <div class="item">
                         <div class="thumb">
-                            <div class="hover-content">
+                           <!-- <div class="hover-content">
                                 <ul>
                                     <li><a href="#"><i class="fa fa-eye"></i></a></li>
                                     <li><a href="#"><i class="fa fa-star"></i></a></li>
                                     <li><a href="#"><i class="fa fa-shopping-cart"></i></a></li>
                                 </ul>
-                            </div>
+                            </div>-->
                             <img id="imgs" src="assets/images/men-01.jpg" alt="">
                         </div>
                         <div class="down-content">
                             <h4 id="busname">DigiBayelsa</h4>
-                            <span id="phone">080-DIGI-BAY-342</span>
-                            <ul class="stars">
+                            <a  href="#" id="idatag" onclick="getin(this)"> <span id="phone">   080-DIGI-BAY-342</a></span>
+                            <span id="location">  DIGI-BAY-LOCATION</span>
+                          <!--   <ul class="stars">
                                 <li><i class="fa fa-star"></i></li>
                                 <li><i class="fa fa-star"></i></li>
                                 <li><i class="fa fa-star"></i></li>
                                 <li><i class="fa fa-star"></i></li>
                                 <li><i class="fa fa-star"></i></li>
-                            </ul>
+                            </ul>-->
                         </div>
                     </div>
                 </div>
@@ -72,14 +74,131 @@
         </div>
     </section>
     <script src="business_search.js"></script>
+    <style>
+        /* The Modal (background) */
+         
+        .modal {
+          display: none; /* Hidden by default */
+          position: fixed; /* Stay in place */
+          z-index: 1; /* Sit on top */
+          left: 0;
+          top: 0;
+          width: 100%; /* Full width */
+          height: 100%; /* Full height */
+          overflow: auto; /* Enable scroll if needed */
+          background-color: rgb(0,0,0); /* Fallback color */
+          background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+          font-family:'Courier New', Courier, monospace;
+            font-size: 29px;
+        }
+        
+        /* Modal Content/Box */
+        .modal-content {
+          background-color: #fefefe;
+          margin: 15% auto; /* 15% from the top and centered */
+          padding: 20px;
+          border: 1px solid #888;
+          width: 80%; /* Could be more or less, depending on screen size */
+        }
+        
+        /* The Close Button */
+        .close {
+          color: #aaa;
+          float: right;
+          font-size: 28px;
+          font-weight: bold;
+        }
+        
+        .close:hover,
+        .close:focus {
+          color: black;
+          text-decoration: none;
+          cursor: pointer;
+        }
+        @import 'https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300';
+        
+        
+        
+        
+        
+        </style>
+
 <script>
+//js promise
+// <!-- 
+// var getBusId="";
+// var getClicke_did="";
+// var str="";
+// //start promise
+// let myPromise= new 
+//     Promise(function(myResolve,myReject){
+//         var element = document.querySelectorAll("a");
+//       for (var i=0;i<element.length;i++){
+//                 element[i].addEventListener("click",function(){
+//                   getClicke_did=this.id.toString();
+//                 alert("hey"+this.id);
+//                 },true);
+//       }
+
+//         const myInput= document.getElementById("idatag");
+//             myInput.addEventListener("click",()=>{getin(getClicke_did), myResolve(getBusId)});
+//           });
+//             myPromise.then(function(value){
+          
+//               alert("hey"+this.id);
+//             });
+// //end promise
+
+// var  maplocation =new Map([[19,"Okoloba Furnitureshop 0803-DIGI-BAYELSA" ],[2,"ovom Boutique 0803-DIGI-BAYELSA" ],[3,"onopa Resturant 0803-DIGI-BAYELSA"]]);
+// function getin(){
+
+// //getBusId=document.getElementById(getClicke_did).innerHTML;
+// //alert(getBusId.split(" ")[0]);
+// //alert(maplocation.get(parseInt(getBusId.split(" ")[0])));
+
+//         }
+
+
+// //js promise
+// //modal code
+
+// document.getElementById("myBtn").hidden=true;
+// // Get the modal
+// var modal = document.getElementById("myModal");
+
+// // Get the button that opens the modal
+// var btn = document.getElementById("myBtn");
+
+// // Get the button that opens the modal
+// var link = document.getElementById("myBtn");
+// // Get the <span> element that closes the modal
+// var span = document.getElementsByClassName("close")[0];
+
+// // When the user clicks on the button, open the modal
+// btn.onclick = function() {
+//   modal.style.display = "block";
+// }
+ 
+// // When the user clicks on the link, open the modal
+// btn.onclick = function() {
+//   modal.style.display = "block";
+// }
+
+// // When the user clicks anywhere outside of the modal, close it
+// window.onclick = function(event) {
+//   if (event.target == modal) {
+//     modal.style.display = "none";
+//     document.getElementById("myBtn").hidden=true;
+//   }
+// }
+//modal code -->
  var first;
     var directory=[];
 //json db code 
 jsonGetdata();
 function jsonGetdata(){
     get ();
-  //alert(first);
+ //  alert(first);
     var str="";
 const fetchPromise = fetch(first+'.json');
 
@@ -92,8 +211,8 @@ fetchPromise.then((response) => {
     
  //alert("inside fetch "+first);
         for (let i=2;i<data.length;i++){
-                    str=str+data[i].name +"#"+data[i].phone+"#"+data[i].image+"#"+data[i].type;
-                    console.log(data[i].name +" "+data[i].phone+" "+data[i].image+" "+data[i].type);
+                    str=str+data[i].name +"# " +i + " "+data[i].phone+"#"+data[i].image+"#"+data[i].location;
+                    console.log(data[i].name +" "+data[i].phone+" "+data[i].image+" "+data[i].location);
                     directory[i]=str;
                     str=" ";
             }
@@ -123,7 +242,7 @@ var newelem='';
          document.getElementById("busname").innerHTML=directory[i].split("#")[0];
           document.getElementById("phone").innerHTML=directory[i].split("#")[1];
    // document.getElementById("prd1").innerHTML=directory[i].split(" ")[2];
-  //  document.getElementById("prd2").innerHTML=directory[i].split(" ")[3];
+    document.getElementById("location").innerHTML=directory[i].split("#")[3];
     document.getElementById("imgs").src="assets/images/"+directory[i].split("#")[2];
     newelem='elem'+i; 
     

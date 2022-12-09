@@ -1,609 +1,863 @@
-[
+[{
+  "name":"Ogbuefi Ok Boutique",
+  "phone":"080325771-Not Verified",
+  "image":"3.jpg",
+  "location":"Ekeki",
+  "Status":"Not Verified"
+  },
   {
-    "name":"Ogbuefi Ok Boutique",
-    "phone":"08032577176",
-    "image":"3.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"Comforteniks",
-    "phone":"080-DIGI-BAY-342",
-    "image":"2.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"Abstract creative Line",
-    "phone":"080-DIGI-BAY-342",
-    "image":"1.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"Bodis Closet",
-    "phone":"080-DIGI-BAY-342",
-    "image":"1.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"Bblex Couture",
-    "phone":"080-DIGI-BAY-342",
-    "image":"3.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"Da-Vic Kiddies &Mum",
-    "phone":"08035087825",
-    "image":"3.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"O' Mars Fashion plaza",
-    "phone":"08035491962",
-    "image":"2.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"Mimi's World Collection",
-    "phone":"08034138627",
-    "image":"2.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"C.j Nice Fashion plaza",
-    "phone":"08100468211",
-    "image":"3.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"Da cedars Unixlsex Collections",
-    "phone":"09029394407",
-    "image":"3.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"Evelyn's Closet",
-    "phone":"080-DIGI-BAY-342",
-    "image":"3.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"Cha Cha's Collection",
-    "phone":"07025551450",
-    "image":"3.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"Vicky Raph lady's Outfit",
-    "phone":"09029346081 08064206002",
-    "image":"2.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"Onye ukoh",
-    "phone":"08103983773",
-    "image":"1.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"Blessed Ogbo-God concept",
-    "phone":"0806474117",
-    "image":"1.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"Chukuson Outfit",
-    "phone":"080-DIGI-BAY-342",
-    "image":"2.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"DD's Kiddies",
-    "phone":"09064378754",
-    "image":"2.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"Showbay unisex fashion center",
-    "phone":"080-DIGI-BAY-342",
-    "image":"3.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"Orex Signature",
-    "phone":"08062773755",
-    "image":"1.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"Sandrell's Concept",
-    "phone":"08035119159",
-    "image":"1.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"Can Boutique",
-    "phone":"08088682201",
-    "image":"1.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"Foreign man Boutique",
-    "phone":"08088609019",
-    "image":"2.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"NDs Boutique",
-    "phone":"08069499699",
-    "image":"1.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"Posh Collections",
-    "phone":"080-DIGI-BAY-342",
-    "image":"2.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"D'Labelle Classique",
-    "phone":"080-DIGI-BAY-342",
-    "image":"1.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"BLESS Signature 08126696665",
-    "phone":"080-DIGI-BAY-342",
-    "image":"2.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"Uk Divine Boutique",
-    "phone":"080-DIGI-BAY-342",
-    "image":"1.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"Sparkling Closet house of Fashion",
-    "phone":"080-DIGI-BAY-342",
-    "image":"2.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"Ebi Exclusive",
-    "phone":"08036338496",
-    "image":"3.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"Native Wear World",
-    "phone":"080-DIGI-BAY-342",
-    "image":"2.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"Naozeal Kiddies",
-    "phone":"08063286505",
-    "image":"3.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"Blessed Babies",
-    "phone":"09058074722",
-    "image":"1.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"De Excellency's Fashion World",
-    "phone":"080-DIGI-BAY-342",
-    "image":"2.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"Victoria's Babies",
-    "phone":"080-DIGI-BAY-342",
-    "image":"2.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"Gili Fabric Design",
-    "phone":"09067869454",
-    "image":"3.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"Shalom",
-    "phone":"08033885246",
-    "image":"3.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"Divine Blessed Global Concept",
-    "phone":"080-DIGI-BAY-342",
-    "image":"1.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"PEP",
-    "phone":"080-DIGI-BAY-342",
-    "image":"3.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"Angel's Closet",
-    "phone":"080-DIGI-BAY-342",
-    "image":"1.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"Keprisy Collection",
-    "phone":"08103235810",
-    "image":"1.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"Emmasson Luxury Clothing",
-    "phone":"08064303476",
-    "image":"3.jpg",
-    "type":"Opolo"
-    },
-    {
-    "name":"Prince & Princess Collection Centre",
-    "phone":"08034236054",
-    "image":"3.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"Abuchi Collection",
-    "phone":"08063116343",
-    "image":"2.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"Emmatex Collection",
-    "phone":"080-DIGI-BAY-342",
-    "image":"2.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"Stelly's Fashion Sewices",
-    "phone":"07034708498",
-    "image":"2.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"360 Closet",
-    "phone":"08036570169",
-    "image":"3.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"Supreme Luxury Men",
-    "phone":"08060375621",
-    "image":"3.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"Celebrity Looks",
-    "phone":"080-DIGI-BAY-342",
-    "image":"3.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"Shalom Young World",
-    "phone":"08033885246",
-    "image":"2.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"M-Series",
-    "phone":"09052854949",
-    "image":"3.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"Kennis Boutique",
-    "phone":"08063518320",
-    "image":"1.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"Bill Top Jose D.Fashion",
-    "phone":"07061224692",
-    "image":"1.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"Das Unisex Beauty Lounge",
-    "phone":"080-DIGI-BAY-342",
-    "image":"1.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"AG's Empire",
-    "phone":"08135444658",
-    "image":"3.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"Kiddies Street",
-    "phone":"08105738788",
-    "image":"1.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"Mildred Couture",
-    "phone":"07030402378",
-    "image":"1.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"De Blessed Cornerstone Unisex",
-    "phone":"080-DIGI-BAY-342",
-    "image":"2.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"Glory Rain Empire",
-    "phone":"08106229251",
-    "image":"2.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"Triple E Beauty World",
-    "phone":"08035077870",
-    "image":"1.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"Seles Ok",
-    "phone":"08146960374",
-    "image":"1.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"Lily-La-Diva Empire",
-    "phone":"08032719802",
-    "image":"2.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"Comfort Kit",
-    "phone":"08091201883",
-    "image":"3.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"BB Outfit",
-    "phone":"09134429868",
-    "image":"3.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"CJ Collection",
-    "phone":"08069251311",
-    "image":"1.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"Excellent Ladies Collection",
-    "phone":"08036772545",
-    "image":"1.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"Topic Outfit",
-    "phone":"080-DIGI-BAY-342",
-    "image":"3.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"Colour Vine",
-    "phone":"080-DIGI-BAY-342",
-    "image":"1.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"Bella's Place Boutique",
-    "phone":"08033232993",
-    "image":"3.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"Queen Me Collection",
-    "phone":"080-DIGI-BAY-342",
-    "image":"1.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"Splendid Trends",
-    "phone":"080-DIGI-BAY-342",
-    "image":"1.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"Ebi Vick Collection",
-    "phone":"08066540996",
-    "image":"2.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"G world Collections",
-    "phone":"080-DIGI-BAY-342",
-    "image":"2.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"4 Royalty",
-    "phone":"08158443370",
-    "image":"2.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"Emmyte X Boutique",
-    "phone":"07030956111",
-    "image":"3.jpg",
-    "type":"Update in Progress"
-    },
-    {
-    "name":"Temptation",
-    "phone":"08032719702",
-    "image":"1.jpg",
-    "type":"Kpanisa"
-    },
-    {
-    "name":"Charlydon Outfit",
-    "phone":"09011321693",
-    "image":"1.jpg",
-    "type":"Yenizue Gene"
-    },
-    {
-    "name":"Rena Emporium",
-    "phone":"08064023017",
-    "image":"1.jpg",
-    "type":"Yenizue Gene"
-    },
-    {
-    "name":"Ugo Best Collection",
-    "phone":"07035115174",
-    "image":"2.jpg",
-    "type":"Yenizue Gene"
-    },
-    {
-    "name":"Angel's Boutique",
-    "phone":"08064279105",
-    "image":"3.jpg",
-    "type":"Yenizue Gene"
-    },
-    {
-    "name":"St. Unique",
-    "phone":"08039317871",
-    "image":"1.jpg",
-    "type":"Yenizue Gene"
-    },
-    {
-    "name":"Dorex Fashion Design",
-    "phone":"08051166661",
-    "image":"2.jpg",
-    "type":"Yenizue Gene"
-    },
-    {
-    "name":"Mirror Fashion Collections",
-    "phone":"08035135037",
-    "image":"1.jpg",
-    "type":"Yenizue Gene"
-    },
-    {
-    "name":"Ann's Spotlight Couture",
-    "phone":"080-DIGI-BAY-342",
-    "image":"1.jpg",
-    "type":"Yenizue Gene"
-    },
-    {
-    "name":"Sir ND Elegant Boutique",
-    "phone":"08063858222",
-    "image":"3.jpg",
-    "type":"Yenizue Gene"
-    },
-    {
-    "name":"Akpos Exclusives",
-    "phone":"080-DIGI-BAY-342",
-    "image":"2.jpg",
-    "type":"Biogbolo"
-    },
-    {
-    "name":"Gili's Collection",
-    "phone":"08141998643",
-    "image":"2.jpg",
-    "type":"Biogbolo"
-    },
-    {
-    "name":"Beula Styles",
-    "phone":"08113918100",
-    "image":"3.jpg",
-    "type":"Biogbolo"
-    },
-    {
-    "name":"Austino Collection",
-    "phone":"080-DIGI-BAY-342",
-    "image":"3.jpg",
-    "type":"Biogbolo"
-    },
-    {
-    "name":"Dela Cream Collection",
-    "phone":"080-DIGI-BAY-342",
-    "image":"2.jpg",
-    "type":"Biogbolo"
-    },
-    {
-    "name":"Hello's Collection",
-    "phone":"07067466010",
-    "image":"2.jpg",
-    "type":"Biogbolo"
-    },
-    {
-    "name":"Regirich Kokopee Nig ltd",
-    "phone":"08140886310",
-    "image":"2.jpg",
-    "type":"Biogbolo"
-    },
-    {
-    "name":"Timi's Empire",
-    "phone":"080-DIGI-BAY-342",
-    "image":"3.jpg",
-    "type":"Biogbolo"
-    },
-    {
-    "name":"L&S Signature",
-    "phone":"08085107336",
-    "image":"2.jpg",
-    "type":"Biogbolo"
-    },
-    {
-    "name":"Superb Fashion Plaza",
-    "phone":"080-DIGI-BAY-342",
-    "image":"3.jpg",
-    "type":"Opolo"
-    },
-    {
-    "name":"4 Real Luxury",
-    "phone":"08066415968",
-    "image":"2.jpg",
-    "type":"Opolo"
-    },
-    {
-    "name":"Timmy's Nest",
-    "phone":"08144962855",
-    "image":"1.jpg",
-    "type":"Biogbolo"
-    },
-    {
-    "name":"Debbilee's Empire",
-    "phone":"08166761155",
-    "image":"3.jpg",
-    "type":"Okutukutu"
-    },
-    {
-    "name":"De Blessed Uchetex Outfit",
-    "phone":"080-DIGI-BAY-342",
-    "image":"1.jpg",
-    "type":"Okutukutu"
-    },
-    {
-    "name":"Mark Mccarthy Outfit",
-    "phone":"09033285700",
-    "image":"2.jpg",
-    "type":"Okutukutu"
-    },
-    {
-    "name":"Kemis3xpesure",
-    "phone":"07036367844",
-    "image":"3.jpg",
-    "type":"Okutukutu"
-    },
-    {
-    "name":"Pharmtouch Fashion Hub",
-    "phone":"08167336183",
-    "image":"2.jpg",
-    "type":"Etegwe"
-    }
-    
+  "name":"Comforteniks",
+  "phone":"080-DIGI-Not Verified",
+  "image":"2.jpg",
+  "location":"Update in Progress",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Abstract creative Line",
+  "phone":"080-DIGI-Not Verified",
+  "image":"1.jpg",
+  "location":"Update in Progress",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Bodis Closet",
+  "phone":"080-DIGI-Not Verified",
+  "image":"2.jpg",
+  "location":"Ekeki",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Bblex Couture",
+  "phone":"080-DIGI-Not Verified",
+  "image":"2.jpg",
+  "location":"Update in Progress",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"O' Mars Fashion plaza",
+  "phone":"080354919-Not Verified",
+  "image":"1.jpg",
+  "location":"Amarata",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Mimi's World Collection",
+  "phone":"080341386-Not Verified",
+  "image":"3.jpg",
+  "location":"Update in Progress",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"C.j Nice Fashion plaza",
+  "phone":"081004682-Not Verified",
+  "image":"1.jpg",
+  "location":"Okutukutu",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Da cedars Unixlsex Collections",
+  "phone":"090293944-Not Verified",
+  "image":"2.jpg",
+  "location":"Okutukutu",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Evelyn's Closet",
+  "phone":"080-DIGI-Not Verified",
+  "image":"1.jpg",
+  "location":"Update in Progress",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Cha Cha's Collection",
+  "phone":"070255514-Not Verified",
+  "image":"3.jpg",
+  "location":"Amarata",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Vicky Raph lady's Outfit",
+  "phone":"090293460-Not Verified",
+  "image":"1.jpg",
+  "location":"Amarata",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Onye ukoh",
+  "phone":"081039837-Not Verified",
+  "image":"2.jpg",
+  "location":"Update in Progress",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Blessed Ogbo-God concept",
+  "phone":"080647411-Not Verified",
+  "image":"1.jpg",
+  "location":"Update in Progress",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Chukuson Outfit",
+  "phone":"080-DIGI-Not Verified",
+  "image":"2.jpg",
+  "location":"Update in Progress",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Showbay unisex fashion center",
+  "phone":"080-DIGI-Not Verified",
+  "image":"3.jpg",
+  "location":"Update in Progress",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Orex Signature",
+  "phone":"080627737-Not Verified",
+  "image":"2.jpg",
+  "location":"Update in Progress",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Sandrell's Concept",
+  "phone":"080351191-Not Verified",
+  "image":"1.jpg",
+  "location":"Kpanisa",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Can Boutique",
+  "phone":"080886822-Not Verified",
+  "image":"3.jpg",
+  "location":"Kpanisa",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Foreign man Boutique",
+  "phone":"080886090-Not Verified",
+  "image":"1.jpg",
+  "location":"Kpanisa",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"NDs Boutique",
+  "phone":"080694996-Not Verified",
+  "image":"2.jpg",
+  "location":"Okaka",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Posh Collections",
+  "phone":"080-DIGI-Not Verified",
+  "image":"3.jpg",
+  "location":"Update in Progress",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"D'Labelle Classique",
+  "phone":"080-DIGI-Not Verified",
+  "image":"2.jpg",
+  "location":"Update in Progress",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"BLESS Signature",
+  "phone":"081266966-Not Verified",
+  "image":"2.jpg",
+  "location":"Kpanisa",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Uk Divine Boutique",
+  "phone":"080-DIGI-Not Verified",
+  "image":"1.jpg",
+  "location":"Ekeki",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Sparkling Closet house of Fashion",
+  "phone":"080-DIGI-Not Verified",
+  "image":"3.jpg",
+  "location":"Update in Progress",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Ebi Exclusive",
+  "phone":"080363384-Not Verified",
+  "image":"2.jpg",
+  "location":"Ekeki",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Native Wear World",
+  "phone":"080-DIGI-Not Verified",
+  "image":"1.jpg",
+  "location":"Ekeki",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Blessed Babies",
+  "phone":"090580747-Not Verified",
+  "image":"2.jpg",
+  "location":"Update in Progress",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"De Excellency's Fashion World",
+  "phone":"090294662-Not Verified",
+  "image":"2.jpg",
+  "location":"Amarata",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Shalom",
+  "phone":"080338852-Not Verified",
+  "image":"1.jpg",
+  "location":"Amarata",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Divine Blessed Global Concept",
+  "phone":"080-DIGI-Not Verified",
+  "image":"2.jpg",
+  "location":"Update in Progress",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"PEP",
+  "phone":"080-DIGI-Not Verified",
+  "image":"1.jpg",
+  "location":"Ekeki",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Angel's Closet",
+  "phone":"080-DIGI-Not Verified",
+  "image":"2.jpg",
+  "location":"Ekeki",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Keprisy Collection",
+  "phone":"080-DIGI-Not Verified",
+  "image":"1.jpg",
+  "location":"Ekeki",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Emmasson Luxury Clothing",
+  "phone":"080643034-Not Verified",
+  "image":"1.jpg",
+  "location":"Opolo",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Abuchi Collection",
+  "phone":"080631163-Not Verified",
+  "image":"1.jpg",
+  "location":"Amarata",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Emmatex Collection",
+  "phone":"080-DIGI-Not Verified",
+  "image":"1.jpg",
+  "location":"Update in Progress",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"360 Closet",
+  "phone":"080365701-Not Verified",
+  "image":"3.jpg",
+  "location":"Amarata",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Supreme Luxury Men",
+  "phone":"080603756-Not Verified",
+  "image":"1.jpg",
+  "location":"Ekeki",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Celebrity Looks",
+  "phone":"080-DIGI-Not Verified",
+  "image":"1.jpg",
+  "location":"Update in Progress",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Shalom Young World",
+  "phone":"080338852-Not Verified",
+  "image":"1.jpg",
+  "location":"Update in Progress",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"M-Series",
+  "phone":"090528549-Not Verified",
+  "image":"1.jpg",
+  "location":"Okutukutu",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Kennis Boutique",
+  "phone":"080635183-Not Verified",
+  "image":"2.jpg",
+  "location":"Update in Progress",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Bill Top Jose D.Fashion",
+  "phone":"070612246-Not Verified",
+  "image":"3.jpg",
+  "location":"Update in Progress",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Das Unisex Beauty Lounge",
+  "phone":"080-DIGI-Not Verified",
+  "image":"1.jpg",
+  "location":"Update in Progress",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"AG's Empire",
+  "phone":"081354446-Not Verified",
+  "image":"3.jpg",
+  "location":"Kpanisa",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Kiddies Street",
+  "phone":"081057387-Not Verified",
+  "image":"1.jpg",
+  "location":"Update in Progress",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Mildred Couture",
+  "phone":"070304023-Not Verified",
+  "image":"2.jpg",
+  "location":"Okaka",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"De Blessed Cornerstone Unisex",
+  "phone":"080-DIGI-Not Verified",
+  "image":"3.jpg",
+  "location":"Update in Progress",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Glory Rain Empire",
+  "phone":"081062292-Not Verified",
+  "image":"1.jpg",
+  "location":"Ekeki",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Triple E Beauty World",
+  "phone":"080350778-Not Verified",
+  "image":"3.jpg",
+  "location":"Ekeki",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Seles Ok",
+  "phone":"081469603-Not Verified",
+  "image":"3.jpg",
+  "location":"Kpanisa",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Lily-La-Diva Empire",
+  "phone":"080327198-Not Verified",
+  "image":"1.jpg",
+  "location":"Kpanisa",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Comfort Kit",
+  "phone":"080912018-Not Verified",
+  "image":"1.jpg",
+  "location":"Kpanisa",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"BB Outfit",
+  "phone":"091344298-Not Verified",
+  "image":"3.jpg",
+  "location":"Kpanisa",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"CJ Collection",
+  "phone":"080692513-Not Verified",
+  "image":"1.jpg",
+  "location":"Kpanisa",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Excellent Ladies Collection",
+  "phone":"080367725-Not Verified",
+  "image":"2.jpg",
+  "location":"Kpanisa",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Topic Outfit",
+  "phone":"080-DIGI-Not Verified",
+  "image":"2.jpg",
+  "location":"Kpanisa",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Colour Vine",
+  "phone":"080-DIGI-Not Verified",
+  "image":"3.jpg",
+  "location":"Update in Progress",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Bella's Place Boutique",
+  "phone":"080332329-Not Verified",
+  "image":"3.jpg",
+  "location":"Kpanisa",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Queen Me Collection",
+  "phone":"080-DIGI-Not Verified",
+  "image":"2.jpg",
+  "location":"Ekeki",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Splendid Trends",
+  "phone":"080-DIGI-Not Verified",
+  "image":"3.jpg",
+  "location":"Ekeki",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Ebi Vick Collection",
+  "phone":"080665409-Not Verified",
+  "image":"3.jpg",
+  "location":"Update in Progress",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"G world Collections",
+  "phone":"080-DIGI-Not Verified",
+  "image":"1.jpg",
+  "location":"Update in Progress",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"4 Royalty",
+  "phone":"081584433-Not Verified",
+  "image":"1.jpg",
+  "location":"Update in Progress",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Emmyte X Boutique",
+  "phone":"070309561-Not Verified",
+  "image":"1.jpg",
+  "location":"Update in Progress",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Temptation",
+  "phone":"080327197-Not Verified",
+  "image":"1.jpg",
+  "location":"Kpanisa",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Charlydon Outfit",
+  "phone":"090113216-Not Verified",
+  "image":"1.jpg",
+  "location":"Yenizue Gene",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Rena Emporium",
+  "phone":"080640230-Not Verified",
+  "image":"2.jpg",
+  "location":"Yenizue Gene",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Ugo Best Collection",
+  "phone":"070351151-Not Verified",
+  "image":"3.jpg",
+  "location":"Yenizue Gene",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Angel's Boutique",
+  "phone":"080642791-Not Verified",
+  "image":"1.jpg",
+  "location":"Yenizue Gene",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"St. Unique",
+  "phone":"080393178-Not Verified",
+  "image":"1.jpg",
+  "location":"Yenizue Gene",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Dorex Fashion Design",
+  "phone":"080511666-Not Verified",
+  "image":"2.jpg",
+  "location":"Yenizue Gene",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Mirror Fashion Collections",
+  "phone":"080351350-Not Verified",
+  "image":"1.jpg",
+  "location":"Yenizue Gene",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Ann's Spotlight Couture",
+  "phone":"080-DIGI-Not Verified",
+  "image":"1.jpg",
+  "location":"Yenizue Gene",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Sir ND Elegant Boutique",
+  "phone":"080638582-Not Verified",
+  "image":"3.jpg",
+  "location":"Yenizue Gene",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Akpos Exclusives",
+  "phone":"080-DIGI-Not Verified",
+  "image":"3.jpg",
+  "location":"Biogbolo",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Gili's Collection",
+  "phone":"081419986-Not Verified",
+  "image":"3.jpg",
+  "location":"Biogbolo",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Beula Styles",
+  "phone":"081139181-Not Verified",
+  "image":"3.jpg",
+  "location":"Biogbolo",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Austino Collection",
+  "phone":"080-DIGI-Not Verified",
+  "image":"3.jpg",
+  "location":"Biogbolo",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Dela Cream Collection",
+  "phone":"080-DIGI-Not Verified",
+  "image":"1.jpg",
+  "location":"Biogbolo",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Hello's Collection",
+  "phone":"070674660-Not Verified",
+  "image":"2.jpg",
+  "location":"Biogbolo",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Regirich Kokopee Nig ltd",
+  "phone":"081408863-Not Verified",
+  "image":"2.jpg",
+  "location":"Biogbolo",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Timi's Empire",
+  "phone":"080-DIGI-Not Verified",
+  "image":"2.jpg",
+  "location":"Biogbolo",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"L&S Signature",
+  "phone":"080851073-Not Verified",
+  "image":"2.jpg",
+  "location":"Biogbolo",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Superb Fashion Plaza",
+  "phone":"080-DIGI-Not Verified",
+  "image":"2.jpg",
+  "location":"Opolo",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"4 Real Luxury",
+  "phone":"080664159-Not Verified",
+  "image":"3.jpg",
+  "location":"Opolo",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Timmy's Nest",
+  "phone":"081449628-Not Verified",
+  "image":"1.jpg",
+  "location":"Biogbolo",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Debbilee's Empire",
+  "phone":"081667611-Not Verified",
+  "image":"1.jpg",
+  "location":"Okutukutu",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"De Blessed Uchetex Outfit",
+  "phone":"080-DIGI-Not Verified",
+  "image":"3.jpg",
+  "location":"Okutukutu",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Mark Mccarthy Outfit",
+  "phone":"090332857-Not Verified",
+  "image":"2.jpg",
+  "location":"Okutukutu",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Kemis3xpesure",
+  "phone":"070363678-Not Verified",
+  "image":"2.jpg",
+  "location":"Okutukutu",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Pharmtouch Fashion Hub",
+  "phone":"081673361-Not Verified",
+  "image":"1.jpg",
+  "location":"Etegwe",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Boss Outfit",
+  "phone":"080688226-Not Verified",
+  "image":"1.jpg",
+  "location":"Opolo",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Justy Collection",
+  "phone":"080-DIGI-Not Verified",
+  "image":"2.jpg",
+  "location":"Opolo",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Priceless Empire",
+  "phone":"081454555-Not Verified",
+  "image":"2.jpg",
+  "location":"Opolo",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Oga ND",
+  "phone":"080371118-Not Verified",
+  "image":"1.jpg",
+  "location":"Kpanisa",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Merrit Outfitters",
+  "phone":"090679347-Not Verified",
+  "image":"2.jpg",
+  "location":"Kpanisa",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Acho Gold Outfit",
+  "phone":"080-DIGI-Not Verified",
+  "image":"2.jpg",
+  "location":"Ekeki",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Fly Wears",
+  "phone":"080633706-Not Verified",
+  "image":"1.jpg",
+  "location":"Amarata",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Uncle Sam Clothing",
+  "phone":"090350592-Not Verified",
+  "image":"3.jpg",
+  "location":"Amarata",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"The Queen's Boutique",
+  "phone":"080354507-Not Verified",
+  "image":"3.jpg",
+  "location":"Onopa",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Preye's Closet",
+  "phone":"080-DIGI-Not Verified",
+  "image":"1.jpg",
+  "location":"Opolo",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Tiseb Fashions",
+  "phone":"080-DIGI-Not Verified",
+  "image":"1.jpg",
+  "location":"Yenizuegene",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Tom Bigger Collection",
+  "phone":"080333250-Not Verified",
+  "image":"3.jpg",
+  "location":"Yenizuegene",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Esty Blinkz",
+  "phone":"080-DIGI-Not Verified",
+  "image":"3.jpg",
+  "location":"Yenizuegene",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Tarikala",
+  "phone":"090577729-Not Verified",
+  "image":"1.jpg",
+  "location":"Yenizuegene",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Orbital Fashion",
+  "phone":"080680475-Not Verified",
+  "image":"1.jpg",
+  "location":"Yenzuegene",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Innotex Boutique",
+  "phone":"080-DIGI-Not Verified",
+  "image":"3.jpg",
+  "location":"Yenizuegene",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Lady K's Empire",
+  "phone":"090150817-Not Verified",
+  "image":"1.jpg",
+  "location":"Ekeki",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Ritzy's Empire",
+  "phone":"080648831-Not Verified",
+  "image":"2.jpg",
+  "location":"Ekeki",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Comfort Collections",
+  "phone":"080374344-Not Verified",
+  "image":"3.jpg",
+  "location":"Ekeki",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Majestic",
+  "phone":"080-DIGI-Not Verified",
+  "image":"2.jpg",
+  "location":"Ekeki",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Intimate Essentiaks",
+  "phone":"080-DIGI-Not Verified",
+  "image":"1.jpg",
+  "location":"Ekeki",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Hattrick",
+  "phone":"080307159-Not Verified",
+  "image":"3.jpg",
+  "location":"Ekeki",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Mjay's Empire",
+  "phone":"080346679-Not Verified",
+  "image":"1.jpg",
+  "location":"Ekeki",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"ShoeHaven",
+  "phone":"080634356-Not Verified",
+  "image":"1.jpg",
+  "location":"Ekeki",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Said Jallabiya Fashion",
+  "phone":"080360357-Not Verified",
+  "image":"2.jpg",
+  "location":"Yenizuegene",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Goodness and Mercy Cultural Centre",
+  "phone":"080367265-Not Verified",
+  "image":"3.jpg",
+  "location":"Ekeki",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Petite Apparel",
+  "phone":"070899663-Not Verified",
+  "image":"3.jpg",
+  "location":"Ekeki",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Rhodyz Boutique",
+  "phone":"080641040-Not Verified",
+  "image":"1.jpg",
+  "location":"Ekeki",
+  "Status":"Not Verified"
+  },
+  {
+  "name":"Tems Jewrey",
+  "phone":"070302665-Not Verified",
+  "image":"3.jpg",
+  "location":"Ekeki",
+  "Status":"Not Verified"
+  }
+  
 ]

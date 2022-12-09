@@ -3,6 +3,8 @@ var second = "";
 var first = "";
 function activeSearch(){
   pick=document.getElementById("catselect").value;
+  store();
+
 if (pick=="Boutique"){
 //alert("Oga ND");
 //window.open("search.html");

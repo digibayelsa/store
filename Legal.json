@@ -1,74 +1,108 @@
-[{
-  "name":"WILABO AND PARTNERS",
-  "phone":"07062422876",
-  "image":"2.jpg",
-  "type":"EKEKI"
-  },
+[
   {
-  "name":"SAVIOUR L.T AND KARIBI E.0",
-  "phone":"08037657120",
-  "image":"3.jpg",
-  "type":"EKEKI"
-  },
-  {
-  "name":"AKADEKILEKUN CO",
-  "phone":"08032356575",
-  "image":"3.jpg",
-  "type":"AMARATA"
-  },
-  {
-  "name":"UKARI ODUMA & ASSOCIATE LAW OFFICE",
-  "phone":"080-DIGI-BAY-342",
-  "image":"3.jpg",
-  "type":"AMARATA"
-  },
-  {
-  "name":"C.T. OLOROGUN",
-  "phone":"2348033845321",
-  "image":"3.jpg",
-  "type":"AMARATA"
-  },
-  {
-  "name":"PERE AND CO CHAMBERS",
-  "phone":"080-DIGI-BAY-342",
-  "image":"3.jpg",
-  "type":"Before naval command"
-  },
-  {
-  "name":"PHILIP OCKIYA AND ASSOCIATES",
-  "phone":"080-DIGI-BAY-342",
-  "image":"3.jpg",
-  "type":"Okaki junction"
-  },
-  {
-  "name":"LAW OFFICE-OLA OSEBIKAN KAYODE AND CO.UNITY CHAMBERS",
-  "phone":"2348053880084,",
-  "image":"3.jpg",
-  "type":"Update in Progress"
-  },
-  {
-  "name":"CLINTON J. AYABOWEI & CO.",
-  "phone":"2347067464057",
-  "image":"3.jpg",
-  "type":"AMARATA"
-  },
-  {
-  "name":"ORACLE & ASSOCIATES",
-  "phone":"2349033331477",
-  "image":"2.jpg",
-  "type":"Ekeki"
-  },
-  {
-  "name":"TIMI AMBAIOWEI  & ASSOCIATES (LORD'S CHAMBERS)",
-  "phone":"2348037018172",
-  "image":"1.jpg",
-  "type":"Yenizuegene"
-  },
-  {
-  "name":"F.B.A NABENA  & CO(SHAMMAH CHAMBERS)",
-  "phone":"2348033068023",
-  "image":"1.jpg",
-  "type":"Kpansia"
-  }
-  
+    "name":"WILABO AND PARTNERS",
+    "phone":"07062422-Not Verified",
+    "image":"3.jpg",
+    "location":"EKEKI",
+    "Status":"Not Verified"
+    },
+    {
+    "name":"SAVIOUR L.T AND KARIBI E.0",
+    "phone":"08037657-Not Verified",
+    "image":"1.jpg",
+    "location":"EKEKI",
+    "Status":"Not Verified"
+    },
+    {
+    "name":"AKADEKILEKUN CO",
+    "phone":"08032356-Not Verified",
+    "image":"3.jpg",
+    "location":"AMARATA",
+    "Status":"Not Verified"
+    },
+    {
+    "name":"UKARI ODUMA & ASSOCIATE LAW OFFICE",
+    "phone":"080-DIGI-Not Verified",
+    "image":"3.jpg",
+    "location":"AMARATA",
+    "Status":"Not Verified"
+    },
+    {
+    "name":"C.T. OLOROGUN",
+    "phone":"23480338-Not Verified",
+    "image":"2.jpg",
+    "location":"AMARATA",
+    "Status":"Not Verified"
+    },
+    {
+    "name":"PERE AND CO CHAMBERS",
+    "phone":"080-DIGI-Not Verified",
+    "image":"1.jpg",
+    "location":"Before naval command",
+    "Status":"Not Verified"
+    },
+    {
+    "name":"PHILIP OCKIYA AND ASSOCIATES",
+    "phone":"080-DIGI-Not Verified",
+    "image":"3.jpg",
+    "location":"Okaki junction",
+    "Status":"Not Verified"
+    },
+    {
+    "name":"LAW OFFICE-OLA OSEBIKAN KAYODE AND CO.UNITY CHAMBERS",
+    "phone":"23480538-Not Verified",
+    "image":"1.jpg",
+    "location":"Update in Progress",
+    "Status":"Not Verified"
+    },
+    {
+    "name":"CLINTON J. AYABOWEI & CO.",
+    "phone":"23470674-Not Verified",
+    "image":"3.jpg",
+    "location":"AMARATA",
+    "Status":"Not Verified"
+    },
+    {
+    "name":"ORACLE & ASSOCIATES",
+    "phone":"23490333-Not Verified",
+    "image":"2.jpg",
+    "location":"Ekeki",
+    "Status":"Not Verified"
+    },
+    {
+    "name":"TIMI AMBAIOWEI  & ASSOCIATES (LORD'S CHAMBERS)",
+    "phone":"23480370-Not Verified",
+    "image":"2.jpg",
+    "location":"Yenizuegene",
+    "Status":"Not Verified"
+    },
+    {
+    "name":"F.B.A NABENA  & CO(SHAMMAH CHAMBERS)",
+    "phone":"23480330-Not Verified",
+    "image":"2.jpg",
+    "location":"Kpansia",
+    "Status":"Not Verified"
+    },
+    {
+    "name":"Jerry Ikputu and Partners",
+    "phone":"08033100-Not Verified",
+    "image":"2.jpg",
+    "location":"EKEKI",
+    "Status":"Not Verified"
+    },
+    {
+    "name":"Bentley Masters and Co",
+    "phone":"07066490-Not Verified",
+    "image":"1.jpg",
+    "location":"EKEKI",
+    "Status":"Not Verified"
+    },
+    {
+    "name":"Ottah and Ottah Solicitors",
+    "phone":"08033361-Not Verified",
+    "image":"1.jpg",
+    "location":"EKEKI",
+    "Status":"Not Verified"
+    }
+    
 ]
