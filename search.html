@@ -73,6 +73,7 @@
             </div>
         </div>
     </section>
+    <h4 id="buttompage"> </h4>
     <script src="business_search.js"></script>
     <style>
         /* The Modal (background) */
@@ -198,8 +199,9 @@
 jsonGetdata();
 function jsonGetdata(){
     get ();
- //  alert(first);
+ 
     var str="";
+    var search;
 const fetchPromise = fetch(first+'.json');
 
 
@@ -207,15 +209,19 @@ const fetchPromise = fetch(first+'.json');
 fetchPromise.then((response) => {
   const jsonPromise = response.json();
   jsonPromise.then((data) => {
-    let storedata=0;
+   
     
  //alert("inside fetch "+first);
         for (let i=2;i<data.length;i++){
-                    str=str+data[i].name +"# " +i + " "+data[i].phone+"#"+data[i].image+"#"+data[i].location;
+      
+str=str+data[i].name +"# " +i + " "+data[i].phone+"#"+data[i].image+"#"+data[i].location;
                     console.log(data[i].name +" "+data[i].phone+" "+data[i].image+" "+data[i].location);
                     directory[i]=str;
                     str=" ";
+
+             
             }
+                   
             fetchPromise.then((response) => {
                 get () ;
                 Load_Business();
@@ -235,8 +241,13 @@ function Load_Business(){
 // Create a copy of it
 //
 var newelem='';
+let storedata=0;
  // Update the ID and add a class
  for (let i =2;i<directory.length;i++){
+    let loc=directory[i].split("#")[3];
+ 
+            if(loc ==second){
+                storedata=storedata+1
     var elem = document.querySelector('#elem1');
     var clone = elem.cloneNode(true);
          document.getElementById("busname").innerHTML=directory[i].split("#")[0];
@@ -252,7 +263,11 @@ clone.classList.add('text-large');
 elem.after(clone);
  }
 }
-
+if (storedata==0){
+    document.getElementById("busname").innerHTML="There is no Data for your Search!!";
+ 
+}
+}
 // get data from search
 function get () {
 
