@@ -3,62 +3,73 @@
     "name" : " DIGI-STORE",
     "phone" : "080-DIGI-BAY-342",
     "image" : "2.jpg",
-    "location" : "Update in Progress"
+    "location" : "Update in Progress",
+ "Status":"Not Verified"
   },
   {
     "name" : " DIGI-STORE",
     "phone" : "080-DIGI-BAY-342",
     "image" : "2.jpg",
-    "location" : "Update in Progress"
+    "location" : "Update in Progress",
+      "Status":"Not Verified"
   },
   {
     "name" : " DIGI-STORE",
     "phone" : "080-DIGI-BAY-342",
     "image" : "2.jpg",
-    "location" : "Update in Progress"
+    "location" : "Update in Progress",
+    
+ "Status":"Not Verified"
   },
   {
     "name" : " DIGI-STORE",
     "phone" : "080-DIGI-BAY-342",
     "image" : "2.jpg",
-    "location" : "Update in Progress"
+    "location" : "Update in Progress",
+ "Status":"Not Verified"
   },
   {
     "name" : "May Dental Hospital",
     "phone" : "080-DIGI-BAY-342",
     "image" : "3.jpg",
-    "location" : "Yenizuegene"
+    "location" : "Yenizuegene",
+ "Status":"Not Verified"
   },
   {
     "name" : "Cottage Hospital",
     "phone" : "080-DIGI-BAY-342",
     "image" : "4.jpg",
-    "location" : "Update in Progress"
+    "location" : "Update in Progress",
+ "Status":"Not Verified"
   },
 
   {
     "name" : "Crest Hospital",
     "phone" : "080-DIGI-BAY-342",
     "image" : "1.jpg",
-    "location" : "Update in Progress"
+    "location" : "Update in Progress",
+ "Status":"Not Verified"
   },
   {
     "name" : "Metrixmed Clinic",
     "phone" : "080-DIGI-BAY-342",
     "image" : "2.jpg",
-    "location" : "Update in Progress"
+    "location" : "Update in Progress",
+ "Status":"Not Verified"
   },
   {
     "name" : "God Grace Clinic",
     "phone" : "080-DIGI-BAY-342",
     "image" : "3.jpg",
-    "location" : "Opolo"
+    "location" : "Opolo",
+ "Status":"Not Verified"
   },
   {
     "name" : "De Cross Specialist Hosptial",
     "phone" : "080-DIGI-BAY-342",
     "image" : "4.jpg",
-    "location" : "Update in Progress"
+    "location" : "Update in Progress",
+ "Status":"Not Verified"
   },
 
 
@@ -67,85 +78,99 @@
     "name" : "Opuere Maternity and Nursing Home",
     "phone" : "080-DIGI-BAY-342",
     "image" : "1.jpg",
-    "location" : "Yenizuegene"
+    "location" : "Yenizuegene",
+ "Status":"Not Verified"
   },
   {
     "name" : "Kokobo Specialist Clinic",
     "phone" : "080-DIGI-BAY-342",
     "image" : "2.jpg",
-    "location" : "Update in Progress"
+    "location" : "Update in Progress",
+ "Status":"Not Verified"
   },
   {
     "name" : "Diete Koki Memorial Hospital",
     "phone" : "080-DIGI-BAY-342",
     "image" : "3.jpg",
-    "location" : "Opolo"
+    "location" : "Opolo",
+ "Status":"Not Verified"
   },
   {
     "name" : "Everly Medical Center",
     "phone" : "080-DIGI-BAY-342",
     "image" : "4.jpg",
-    "location" : "Yenizuegene"
+    "location" : "Yenizuegene",
+ "Status":"Not Verified"
   },
   {
     "name" : "Liberty Medical Center",
     "phone" : "080-DIGI-BAY-342",
     "image" : "5.jpg",
-    "location" : "Update in Progress"
+    "location" : "Update in Progress",
+ "Status":"Not Verified"
   },
   {
     "name" : "Timiebi Hosptial",
     "phone" : "080-DIGI-BAY-342",
     "image" : "6.jpg",
-    "location" : "Ekeki"
+    "location" : "Ekeki",
+ "Status":"Not Verified"
   },
   {
     "name" : "Regnix health Care",
     "phone" : "080-DIGI-BAY-342",
     "image" : "7.jpg",
-    "location" : "Update in Progress"
+    "location" : "Update in Progress",
+ "Status":"Not Verified"
   },
   {
     "name" : "Hanpeg Clinic and Maternity",
     "phone" : "080-DIGI-BAY-342",
     "image" : "8.jpg",
-    "location" : "Update in Progress"
+    "location" : "Update in Progress",
+ "Status":"Not Verified"
   },
   {
     "name" : "Gloryland Inri Annex Medical Center",
     "phone" : "080-DIGI-BAY-342",
     "image" : "9.jpg",
-    "location" : "Etegwe"
+    "location" : "Etegwe",
+ "Status":"Not Verified"
   },
   {
     "name" : "Asueifal Hosptial",
     "phone" : "080-DIGI-BAY-342",
     "image" : "10.jpg",
-    "location" : "Yenizuegene"
+    "location" : "Yenizuegene",
+ "Status":"Not Verified"
   },
   {
     "name" : "Gloryland Hosptial",
     "phone" : "080-DIGI-BAY-342",
     "image" : "11.jpg",
-    "location" : "Opolo"
+    "location" : "Opolo",
+ "Status":"Not Verified"
   },
   {
     "name" : "Ripus Hosptial",
     "phone" : "080-DIGI-BAY-342",
     "image" : "12.jpg",
-    "location" : "Update in Progress"
+    "location" : "Update in Progress",
+ "Status":"Not Verified"
   },
   {
     "name" : "Tobis Hosptial",
     "phone" : "080-DIGI-BAY-342",
     "image" : "13.jpg",
-    "location" : "Akenfa"
+    "location" : "Akenfa",
+ "Status":"Not Verified"
   },
   {
     "name" : "Federal Medical Center",
     "phone" : "080-DIGI-BAY-342",
     "image" : "14.jpg",
-    "location" : "Ovom"
+    "location" : "Ovom",
+ "Status":"Not Verified"
   },
   {
     "name" : "ST.PETERS Hosptial",
