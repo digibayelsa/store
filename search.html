@@ -261,8 +261,28 @@ let storedata=0;
 clone.classList.add('text-large');
 // Inject it into the DOM
 elem.after(clone);
+
+ } 
+ if(second=="All Locations" && first!="CATEGORY" ) {
+    storedata=storedata+1
+    var elem = document.querySelector('#elem1');
+    var clone = elem.cloneNode(true);
+         document.getElementById("busname").innerHTML=directory[i].split("#")[0];
+          document.getElementById("phone").innerHTML=directory[i].split("#")[1];
+   // document.getElementById("prd1").innerHTML=directory[i].split(" ")[2];
+    document.getElementById("location").innerHTML=directory[i].split("#")[3];
+    document.getElementById("imgs").src="assets/images/"+directory[i].split("#")[2];
+    newelem='elem'+i; 
+    
+    clone.id = newelem;
+clone.classList.add('text-large');
+// Inject it into the DOM
+elem.after(clone);
+
  }
+
 }
+
 if (storedata==0){
     document.getElementById("toppage").innerHTML="There is no Data for your Search!!";
  
