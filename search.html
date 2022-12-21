@@ -58,7 +58,8 @@
                         </div>
                         <div class="down-content">
                             <h4 id="busname">DigiBayelsa</h4>
-                            <a  href="#" id="idatag" onclick="getin(this)"> <span id="phone">   080-DIGI-BAY-342</a></span>
+                            <span id="phone">   080-DIGI-BAY-342</span>
+                            <a  href= "" id="weblink" > <span id="phone">   Goto Website</a></span>
                             <span id="location">  DIGI-BAY-LOCATION</span>
                           <!--   <ul class="stars">
                                 <li><i class="fa fa-star"></i></li>
@@ -125,74 +126,7 @@
         </style>
 
 <script>
-//js promise
-// <!-- 
-// var getBusId="";
-// var getClicke_did="";
-// var str="";
-// //start promise
-// let myPromise= new 
-//     Promise(function(myResolve,myReject){
-//         var element = document.querySelectorAll("a");
-//       for (var i=0;i<element.length;i++){
-//                 element[i].addEventListener("click",function(){
-//                   getClicke_did=this.id.toString();
-//                 alert("hey"+this.id);
-//                 },true);
-//       }
 
-//         const myInput= document.getElementById("idatag");
-//             myInput.addEventListener("click",()=>{getin(getClicke_did), myResolve(getBusId)});
-//           });
-//             myPromise.then(function(value){
-          
-//               alert("hey"+this.id);
-//             });
-// //end promise
-
-// var  maplocation =new Map([[19,"Okoloba Furnitureshop 0803-DIGI-BAYELSA" ],[2,"ovom Boutique 0803-DIGI-BAYELSA" ],[3,"onopa Resturant 0803-DIGI-BAYELSA"]]);
-// function getin(){
-
-// //getBusId=document.getElementById(getClicke_did).innerHTML;
-// //alert(getBusId.split(" ")[0]);
-// //alert(maplocation.get(parseInt(getBusId.split(" ")[0])));
-
-//         }
-
-
-// //js promise
-// //modal code
-
-// document.getElementById("myBtn").hidden=true;
-// // Get the modal
-// var modal = document.getElementById("myModal");
-
-// // Get the button that opens the modal
-// var btn = document.getElementById("myBtn");
-
-// // Get the button that opens the modal
-// var link = document.getElementById("myBtn");
-// // Get the <span> element that closes the modal
-// var span = document.getElementsByClassName("close")[0];
-
-// // When the user clicks on the button, open the modal
-// btn.onclick = function() {
-//   modal.style.display = "block";
-// }
- 
-// // When the user clicks on the link, open the modal
-// btn.onclick = function() {
-//   modal.style.display = "block";
-// }
-
-// // When the user clicks anywhere outside of the modal, close it
-// window.onclick = function(event) {
-//   if (event.target == modal) {
-//     modal.style.display = "none";
-//     document.getElementById("myBtn").hidden=true;
-//   }
-// }
-//modal code -->
  var first;
     var directory=[];
 //json db code 
@@ -214,12 +148,12 @@ fetchPromise.then((response) => {
  //alert("inside fetch "+first);
         for (let i=2;i<data.length;i++){
       
-str=str+data[i].name +"# " +i + " "+data[i].phone+"#"+data[i].image+"#"+data[i].location;
-                    console.log(data[i].name +" "+data[i].phone+" "+data[i].image+" "+data[i].location);
+str=str+data[i].name +"# " +i + " "+data[i].phone+"#"+data[i].image+"#"+data[i].location+"#"+data[i].status+"#"+data[i].link;
+                    console.log(data[i].name +" "+data[i].phone+" "+data[i].image+" "+data[i].location+" "+data[i].link);
                     directory[i]=str;
-                    str=" ";
+                     str=" ";
 
-             
+          
             }
                    
             fetchPromise.then((response) => {
@@ -242,27 +176,34 @@ function Load_Business(){
 //
 var newelem='';
 let storedata=0;
+var buslink='';
  // Update the ID and add a class
  for (let i =2;i<directory.length;i++){
+ 
     let loc=directory[i].split("#")[3];
  
             if(loc ==second){
                 storedata=storedata+1
     var elem = document.querySelector('#elem1');
     var clone = elem.cloneNode(true);
+    var a = document.getElementById("weblink"); //or grab it by tagname etc
+    a.href =directory[i].split("#")[4];
+  
          document.getElementById("busname").innerHTML=directory[i].split("#")[0];
           document.getElementById("phone").innerHTML=directory[i].split("#")[1];
    // document.getElementById("prd1").innerHTML=directory[i].split(" ")[2];
     document.getElementById("location").innerHTML=directory[i].split("#")[3];
     document.getElementById("imgs").src="assets/images/"+directory[i].split("#")[2];
-    newelem='elem'+i; 
     
+    newelem='elem'+i; 
+   
     clone.id = newelem;
 clone.classList.add('text-large');
 // Inject it into the DOM
 elem.after(clone);
 
- } 
+ }
+  
  if(second=="All Locations" && first!="CATEGORY" ) {
     storedata=storedata+1
     var elem = document.querySelector('#elem1');
@@ -272,7 +213,10 @@ elem.after(clone);
    // document.getElementById("prd1").innerHTML=directory[i].split(" ")[2];
     document.getElementById("location").innerHTML=directory[i].split("#")[3];
     document.getElementById("imgs").src="assets/images/"+directory[i].split("#")[2];
-    newelem='elem'+i; 
+    var a = document.getElementById("weblink"); //or grab it by tagname etc
+ 
+    a.href =directory[i].split("#")[5];
+  newelem='elem'+i; 
     
     clone.id = newelem;
 clone.classList.add('text-large');
@@ -308,5 +252,6 @@ function get () {
       // sessionStorage.clear();
     }
 
+    
 </script>
 </html>

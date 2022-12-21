@@ -1,191 +1,249 @@
 [{
-  "name":"Base Furniture",
-  "phone":"0803 809-Not Verified",
-  "image":"2.jpg",
-  "location":"OPOLO",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Obi Best Furniture & Upholstry",
-  "phone":"080-DIGI-Not Verified",
-  "image":"1.jpg",
-  "location":"Update in Progress",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Ugo Legacy Furniture",
-  "phone":"07069119-Not Verified",
-  "image":"3.jpg",
-  "location":"Amarata",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Topcom Furniture Amarata",
-  "phone":"080-DIGI-Not Verified",
-  "image":"3.jpg",
-  "location":"Update in Progress",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Don Royal Furniture Enterprise",
-  "phone":"080-DIGI-Not Verified",
-  "image":"1.jpg",
-  "location":"Amarata",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Triple C furniture",
-  "phone":"08030426-Not Verified",
-  "image":"2.jpg",
-  "location":"Opolo",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"OC SkyMate Furniture",
-  "phone":"08063551-Not Verified",
-  "image":"3.jpg",
-  "location":"Update in Progress",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Avalanche of Mercy Furniture",
-  "phone":"080-DIGI-Not Verified",
-  "image":"2.jpg",
-  "location":"Opolo",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"De Tiger Teeth Furniture",
-  "phone":"080-DIGI-Not Verified",
-  "image":"2.jpg",
-  "location":"Opolo",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Daniel Best Global Furniture",
-  "phone":"080-DIGI-Not Verified",
-  "image":"1.jpg",
-  "location":"Opolo",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"World Class Furniture",
-  "phone":"07035879-Not Verified",
-  "image":"2.jpg",
-  "location":"Opolo",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"St. Innoccent Furniture",
-  "phone":"09068837-Not Verified",
+  "name":"DIGIBAYELSA",
+  "phone":"080-DIGINot Verified",
   "image":"3.jpg",
   "location":"Opolo",
-  "Status":"Not Verified"
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
   },
   {
-  "name":"Obinaco Global Furnitures",
-  "phone":"08164748-Not Verified",
-  "image":"3.jpg",
-  "location":"Opolo",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Blessed Brothers Furniture",
-  "phone":"08164331-Not Verified",
-  "image":"3.jpg",
-  "location":"Update in Progress",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Uality Base Furniture",
-  "phone":"07065087-Not Verified",
-  "image":"1.jpg",
-  "location":"Biogbolo",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"De Great Walter Furniture",
-  "phone":"09076934-Not Verified",
-  "image":"3.jpg",
-  "location":"Opolo",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Aneru Furniture Global Empire",
-  "phone":"080-DIGI-Not Verified",
-  "image":"1.jpg",
-  "location":"Opolo",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"De Blessed Franco Furnitures",
-  "phone":"080-DIGI-Not Verified",
-  "image":"2.jpg",
-  "location":"Opolo",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"The Lord's Strength Enterprise",
-  "phone":"08067756-Not Verified",
-  "image":"1.jpg",
-  "location":"Opolo",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"De Easy-Way Furniture & Upholstery Home",
-  "phone":"08132776-Not Verified",
-  "image":"1.jpg",
-  "location":"Update in Progress",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Big Brother Bayelsa",
-  "phone":"080-DIGI-Not Verified",
-  "image":"2.jpg",
-  "location":"Opolo",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Classic Furniture &  Upholstery Home",
-  "phone":"08161126-Not Verified",
-  "image":"2.jpg",
-  "location":"Opolo",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Pretty Touchhomez",
-  "phone":"08064335-Not Verified",
-  "image":"1.jpg",
-  "location":"Ekeki",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Dontext Furniture",
-  "phone":"08037980-Not Verified",
-  "image":"1.jpg",
-  "location":"Ekeki",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"King David and Oluchi Furniture Nig",
-  "phone":"08034319-Not Verified",
-  "image":"3.jpg",
-  "location":"Ekeki",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Chibest Furniture Nig.",
-  "phone":"07038226-Not Verified",
+  "name":"DIGIBAYELSA",
+  "phone":"080-DIGINot Verified",
   "image":"2.jpg",
   "location":"Ekeki",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Elo- best Furniture",
-  "phone":"080-DIGI-Not Verified",
-  "image":"1.jpg",
-  "location":"Ekeki",
-  "Status":"Not Verified"
-  }
-  
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },{
+    "name":"Base Furniture",
+    "phone":"0803 809Not Verified",
+    "image":"2.jpg",
+    "location":"OPOLO",
+    "status":"Not Verified",
+    "link":"https://digibayelsa.github.io/getverified/verify.html"
+    },
+    {
+    "name":"Obi Best Furniture & Upholstry",
+    "phone":"080-DIGINot Verified",
+    "image":"2.jpg",
+    "location":"Update in Progress",
+    "status":"Not Verified",
+    "link":"https://digibayelsa.github.io/getverified/verify.html"
+    },
+    {
+    "name":"Ugo Legacy Furniture",
+    "phone":"07069119Not Verified",
+    "image":"2.jpg",
+    "location":"Amarata",
+    "status":"Not Verified",
+    "link":"https://digibayelsa.github.io/getverified/verify.html"
+    },
+    {
+    "name":"Topcom Furniture Amarata",
+    "phone":"080-DIGINot Verified",
+    "image":"3.jpg",
+    "location":"Update in Progress",
+    "status":"Not Verified",
+    "link":"https://digibayelsa.github.io/getverified/verify.html"
+    },
+    {
+    "name":"Don Royal Furniture Enterprise",
+    "phone":"080-DIGINot Verified",
+    "image":"1.jpg",
+    "location":"Amarata",
+    "status":"Not Verified",
+    "link":"https://digibayelsa.github.io/getverified/verify.html"
+    },
+    {
+    "name":"Triple C furniture",
+    "phone":"08030426Not Verified",
+    "image":"2.jpg",
+    "location":"Opolo",
+    "status":"Not Verified",
+    "link":"https://digibayelsa.github.io/getverified/verify.html"
+    },
+    {
+    "name":"OC SkyMate Furniture",
+    "phone":"08063551Not Verified",
+    "image":"1.jpg",
+    "location":"Update in Progress",
+    "status":"Not Verified",
+    "link":"https://digibayelsa.github.io/getverified/verify.html"
+    },
+    {
+    "name":"Avalanche of Mercy Furniture",
+    "phone":"080-DIGINot Verified",
+    "image":"3.jpg",
+    "location":"Opolo",
+    "status":"Not Verified",
+    "link":"https://digibayelsa.github.io/getverified/verify.html"
+    },
+    {
+    "name":"De Tiger Teeth Furniture",
+    "phone":"080-DIGINot Verified",
+    "image":"1.jpg",
+    "location":"Opolo",
+    "status":"Not Verified",
+    "link":"https://digibayelsa.github.io/getverified/verify.html"
+    },
+    {
+    "name":"Daniel Best Global Furniture",
+    "phone":"080-DIGINot Verified",
+    "image":"1.jpg",
+    "location":"Opolo",
+    "status":"Not Verified",
+    "link":"https://digibayelsa.github.io/getverified/verify.html"
+    },
+    {
+    "name":"World Class Furniture",
+    "phone":"07035879Not Verified",
+    "image":"3.jpg",
+    "location":"Opolo",
+    "status":"Not Verified",
+    "link":"https://digibayelsa.github.io/getverified/verify.html"
+    },
+    {
+    "name":"St. Innoccent Furniture",
+    "phone":"09068837Not Verified",
+    "image":"2.jpg",
+    "location":"Opolo",
+    "status":"Not Verified",
+    "link":"https://digibayelsa.github.io/getverified/verify.html"
+    },
+    {
+    "name":"Obinaco Global Furnitures",
+    "phone":"08164748Not Verified",
+    "image":"2.jpg",
+    "location":"Opolo",
+    "status":"Not Verified",
+    "link":"https://digibayelsa.github.io/getverified/verify.html"
+    },
+    {
+    "name":"Blessed Brothers Furniture",
+    "phone":"08164331Not Verified",
+    "image":"3.jpg",
+    "location":"Update in Progress",
+    "status":"Not Verified",
+    "link":"https://digibayelsa.github.io/getverified/verify.html"
+    },
+    {
+    "name":"Uality Base Furniture",
+    "phone":"07065087Not Verified",
+    "image":"3.jpg",
+    "location":"Biogbolo",
+    "status":"Not Verified",
+    "link":"https://digibayelsa.github.io/getverified/verify.html"
+    },
+    {
+    "name":"De Great Walter Furniture",
+    "phone":"09076934Not Verified",
+    "image":"2.jpg",
+    "location":"Opolo",
+    "status":"Not Verified",
+    "link":"https://digibayelsa.github.io/getverified/verify.html"
+    },
+    {
+    "name":"Aneru Furniture Global Empire",
+    "phone":"080-DIGINot Verified",
+    "image":"3.jpg",
+    "location":"Opolo",
+    "status":"Not Verified",
+    "link":"https://digibayelsa.github.io/getverified/verify.html"
+    },
+    {
+    "name":"De Blessed Franco Furnitures",
+    "phone":"080-DIGINot Verified",
+    "image":"2.jpg",
+    "location":"Opolo",
+    "status":"Not Verified",
+    "link":"https://digibayelsa.github.io/getverified/verify.html"
+    },
+    {
+    "name":"The Lord's Strength Enterprise",
+    "phone":"08067756Not Verified",
+    "image":"1.jpg",
+    "location":"Opolo",
+    "status":"Not Verified",
+    "link":"https://digibayelsa.github.io/getverified/verify.html"
+    },
+    {
+    "name":"De Easy-Way Furniture & Upholstery Home",
+    "phone":"08132776Not Verified",
+    "image":"3.jpg",
+    "location":"Update in Progress",
+    "status":"Not Verified",
+    "link":"https://digibayelsa.github.io/getverified/verify.html"
+    },
+    {
+    "name":"Big Brother Bayelsa",
+    "phone":"080-DIGINot Verified",
+    "image":"1.jpg",
+    "location":"Opolo",
+    "status":"Not Verified",
+    "link":"https://digibayelsa.github.io/getverified/verify.html"
+    },
+    {
+    "name":"Classic Furniture &  Upholstery Home",
+    "phone":"08161126Not Verified",
+    "image":"1.jpg",
+    "location":"Opolo",
+    "status":"Not Verified",
+    "link":"https://digibayelsa.github.io/getverified/verify.html"
+    },
+    {
+    "name":"Pretty Touchhomez",
+    "phone":"08064335Not Verified",
+    "image":"1.jpg",
+    "location":"Ekeki",
+    "status":"Not Verified",
+    "link":"https://digibayelsa.github.io/getverified/verify.html"
+    },
+    {
+    "name":"Dontext Furniture",
+    "phone":"08037980Not Verified",
+    "image":"3.jpg",
+    "location":"Ekeki",
+    "status":"Not Verified",
+    "link":"https://digibayelsa.github.io/getverified/verify.html"
+    },
+    {
+    "name":"King David and Oluchi Furniture Nig",
+    "phone":"08034319Not Verified",
+    "image":"2.jpg",
+    "location":"Ekeki",
+    "status":"Not Verified",
+    "link":"https://digibayelsa.github.io/getverified/verify.html"
+    },
+    {
+    "name":"Chibest Furniture Nig.",
+    "phone":"07038226Not Verified",
+    "image":"1.jpg",
+    "location":"Ekeki",
+    "status":"Not Verified",
+    "link":"https://digibayelsa.github.io/getverified/verify.html"
+    },
+    {
+    "name":"Elo- best Furniture",
+    "phone":"080-DIGINot Verified",
+    "image":"2.jpg",
+    "location":"Ekeki",
+    "status":"Not Verified",
+    "link":"https://digibayelsa.github.io/getverified/verify.html"
+    },
+    {
+    "name":"Dream Home Furniture",
+    "phone":"080-DIGINot Verified",
+    "image":"1.jpg",
+    "location":"Kpansia",
+    "status":"Not Verified",
+    "link":"https://digibayelsa.github.io/getverified/verify.html"
+    },
+    {
+    "name":"Ebiatoru Global Services",
+    "phone":"08036477Not Verified",
+    "image":"3.jpg",
+    "location":"Okutukutu",
+    "status":"Not Verified",
+    "link":"https://digibayelsa.github.io/getverified/verify.html"
+    }
+    
 ]

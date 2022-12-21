@@ -1,94 +1,129 @@
-[
+[{
+  "name":"DIGIBAYELSA",
+  "phone":"080-DIGINot Verified",
+  "image":"3.jpg",
+  "location":"Opolo",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
   {
-    "name":"FY stores",
-    "phone":"080-DIGI-Not Verified",
-    "image":"3.jpg",
-    "location":"Opolo",
-    "Status":"Not Verified"
-    },
-    {
-    "name":"Excella Wine Empire",
-    "phone":"08135378-Not Verified",
-    "image":"2.jpg",
-    "location":"Kpansia",
-    "Status":"Not Verified"
-    },
-    {
-    "name":"All 4 One Super Wine and Gift",
-    "phone":"08033612-Not Verified",
-    "image":"1.jpg",
-    "location":"Kpansia",
-    "Status":"Not Verified"
-    },
-    {
-    "name":"Tajad Drinks",
-    "phone":"080-DIGI-Not Verified",
-    "image":"3.jpg",
-    "location":"Ekeki",
-    "Status":"Not Verified"
-    },
-    {
-    "name":"Olivia's Concept",
-    "phone":"08032651-Not Verified",
-    "image":"1.jpg",
-    "location":"Amarata",
-    "Status":"Not Verified"
-    },
-    {
-    "name":"Grace Drinks and Water",
-    "phone":"080-DIGI-Not Verified",
-    "image":"2.jpg",
-    "location":"Amarata",
-    "Status":"Not Verified"
-    },
-    {
-    "name":"Wine Emporium",
-    "phone":"080-DIGI-Not Verified",
-    "image":"3.jpg",
-    "location":"Opolo",
-    "Status":"Not Verified"
-    },
-    {
-    "name":"Assorted Drink Depot",
-    "phone":"08063824-Not Verified",
-    "image":"1.jpg",
-    "location":"Opolo",
-    "Status":"Not Verified"
-    },
-    {
-    "name":"Keniye Drinks Depot",
-    "phone":"08143598-Not Verified",
-    "image":"2.jpg",
-    "location":"Biogbolo",
-    "Status":"Not Verified"
-    },
-    {
-    "name":"Chinwe'z place",
-    "phone":"08037031-Not Verified",
-    "image":"3.jpg",
-    "location":"Biogbolo",
-    "Status":"Not Verified"
-    },
-    {
-    "name":"King's Global Concept",
-    "phone":"07035789-Not Verified",
-    "image":"2.jpg",
-    "location":"Yenizuegene",
-    "Status":"Not Verified"
-    },
-    {
-    "name":"Dew",
-    "phone":"080-DIGI-Not Verified",
-    "image":"1.jpg",
-    "location":"Ekeki",
-    "Status":"Not Verified"
-    },
-    {
-    "name":"Saint Zoe Drink and Wine",
-    "phone":"09079913-Not Verified",
-    "image":"1.jpg",
-    "location":"Ekeki",
-    "Status":"Not Verified"
-    }
-    
+  "name":"DIGIBAYELSA",
+  "phone":"080-DIGINot Verified",
+  "image":"2.jpg",
+  "location":"Ekeki",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },{
+  "name":"FY stores",
+  "phone":"080-DIGINot Verified",
+  "image":"3.jpg",
+  "location":"Opolo",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Excella Wine Empire",
+  "phone":"08135378Not Verified",
+  "image":"2.jpg",
+  "location":"Kpansia",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"All 4 One Super Wine and Gift",
+  "phone":"08033612Not Verified",
+  "image":"1.jpg",
+  "location":"Kpansia",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Tajad Drinks",
+  "phone":"080-DIGINot Verified",
+  "image":"3.jpg",
+  "location":"Ekeki",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Olivia's Concept",
+  "phone":"08032651Not Verified",
+  "image":"3.jpg",
+  "location":"Amarata",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Grace Drinks and Water",
+  "phone":"080-DIGINot Verified",
+  "image":"3.jpg",
+  "location":"Amarata",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Wine Emporium",
+  "phone":"080-DIGINot Verified",
+  "image":"2.jpg",
+  "location":"Opolo",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Assorted Drink Depot",
+  "phone":"08063824Not Verified",
+  "image":"2.jpg",
+  "location":"Opolo",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Keniye Drinks Depot",
+  "phone":"08143598Not Verified",
+  "image":"3.jpg",
+  "location":"Biogbolo",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Chinwe'z place",
+  "phone":"08037031Not Verified",
+  "image":"1.jpg",
+  "location":"Biogbolo",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"King's Global Concept",
+  "phone":"07035789Not Verified",
+  "image":"1.jpg",
+  "location":"Yenizuegene",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Dew",
+  "phone":"080-DIGINot Verified",
+  "image":"3.jpg",
+  "location":"Ekeki",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Saint Zoe Drink and Wine",
+  "phone":"09079913Not Verified",
+  "image":"3.jpg",
+  "location":"Ekeki",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Dominion Classic Wine Shop",
+  "phone":"080-DIGINot Verified",
+  "image":"1.jpg",
+  "location":"Ekeki",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  }
+  
 ]

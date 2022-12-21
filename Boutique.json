@@ -1,863 +1,1210 @@
 [{
-  "name":"Ogbuefi Ok Boutique",
-  "phone":"080325771-Not Verified",
+  "name":"DIGIBAYELSA",
+  "phone":"080-DIGINot Verified",
   "image":"3.jpg",
-  "location":"Ekeki",
-  "Status":"Not Verified"
+  "location":"Opolo",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
   },
   {
-  "name":"Comforteniks",
-  "phone":"080-DIGI-Not Verified",
-  "image":"2.jpg",
-  "location":"Update in Progress",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Abstract creative Line",
-  "phone":"080-DIGI-Not Verified",
-  "image":"1.jpg",
-  "location":"Update in Progress",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Bodis Closet",
-  "phone":"080-DIGI-Not Verified",
+  "name":"DIGIBAYELSA",
+  "phone":"080-DIGINot Verified",
   "image":"2.jpg",
   "location":"Ekeki",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Bblex Couture",
-  "phone":"080-DIGI-Not Verified",
-  "image":"2.jpg",
-  "location":"Update in Progress",
-  "Status":"Not Verified"
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
   },
   {
   "name":"O' Mars Fashion plaza",
-  "phone":"080354919-Not Verified",
+  "phone":"08035491Not Verified",
   "image":"1.jpg",
   "location":"Amarata",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Mimi's World Collection",
-  "phone":"080341386-Not Verified",
-  "image":"3.jpg",
-  "location":"Update in Progress",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"C.j Nice Fashion plaza",
-  "phone":"081004682-Not Verified",
-  "image":"1.jpg",
-  "location":"Okutukutu",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Da cedars Unixlsex Collections",
-  "phone":"090293944-Not Verified",
-  "image":"2.jpg",
-  "location":"Okutukutu",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Evelyn's Closet",
-  "phone":"080-DIGI-Not Verified",
-  "image":"1.jpg",
-  "location":"Update in Progress",
-  "Status":"Not Verified"
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
   },
   {
   "name":"Cha Cha's Collection",
-  "phone":"070255514-Not Verified",
-  "image":"3.jpg",
+  "phone":"07025551Not Verified",
+  "image":"2.jpg",
   "location":"Amarata",
-  "Status":"Not Verified"
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
   },
   {
   "name":"Vicky Raph lady's Outfit",
-  "phone":"090293460-Not Verified",
-  "image":"1.jpg",
+  "phone":"09029346Not Verified",
+  "image":"2.jpg",
   "location":"Amarata",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Onye ukoh",
-  "phone":"081039837-Not Verified",
-  "image":"2.jpg",
-  "location":"Update in Progress",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Blessed Ogbo-God concept",
-  "phone":"080647411-Not Verified",
-  "image":"1.jpg",
-  "location":"Update in Progress",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Chukuson Outfit",
-  "phone":"080-DIGI-Not Verified",
-  "image":"2.jpg",
-  "location":"Update in Progress",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Showbay unisex fashion center",
-  "phone":"080-DIGI-Not Verified",
-  "image":"3.jpg",
-  "location":"Update in Progress",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Orex Signature",
-  "phone":"080627737-Not Verified",
-  "image":"2.jpg",
-  "location":"Update in Progress",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Sandrell's Concept",
-  "phone":"080351191-Not Verified",
-  "image":"1.jpg",
-  "location":"Kpanisa",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Can Boutique",
-  "phone":"080886822-Not Verified",
-  "image":"3.jpg",
-  "location":"Kpanisa",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Foreign man Boutique",
-  "phone":"080886090-Not Verified",
-  "image":"1.jpg",
-  "location":"Kpanisa",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"NDs Boutique",
-  "phone":"080694996-Not Verified",
-  "image":"2.jpg",
-  "location":"Okaka",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Posh Collections",
-  "phone":"080-DIGI-Not Verified",
-  "image":"3.jpg",
-  "location":"Update in Progress",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"D'Labelle Classique",
-  "phone":"080-DIGI-Not Verified",
-  "image":"2.jpg",
-  "location":"Update in Progress",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"BLESS Signature",
-  "phone":"081266966-Not Verified",
-  "image":"2.jpg",
-  "location":"Kpanisa",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Uk Divine Boutique",
-  "phone":"080-DIGI-Not Verified",
-  "image":"1.jpg",
-  "location":"Ekeki",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Sparkling Closet house of Fashion",
-  "phone":"080-DIGI-Not Verified",
-  "image":"3.jpg",
-  "location":"Update in Progress",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Ebi Exclusive",
-  "phone":"080363384-Not Verified",
-  "image":"2.jpg",
-  "location":"Ekeki",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Native Wear World",
-  "phone":"080-DIGI-Not Verified",
-  "image":"1.jpg",
-  "location":"Ekeki",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Blessed Babies",
-  "phone":"090580747-Not Verified",
-  "image":"2.jpg",
-  "location":"Update in Progress",
-  "Status":"Not Verified"
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
   },
   {
   "name":"De Excellency's Fashion World",
-  "phone":"090294662-Not Verified",
-  "image":"2.jpg",
+  "phone":"09029466Not Verified",
+  "image":"3.jpg",
   "location":"Amarata",
-  "Status":"Not Verified"
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
   },
   {
   "name":"Shalom",
-  "phone":"080338852-Not Verified",
+  "phone":"08033885Not Verified",
   "image":"1.jpg",
   "location":"Amarata",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Divine Blessed Global Concept",
-  "phone":"080-DIGI-Not Verified",
-  "image":"2.jpg",
-  "location":"Update in Progress",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"PEP",
-  "phone":"080-DIGI-Not Verified",
-  "image":"1.jpg",
-  "location":"Ekeki",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Angel's Closet",
-  "phone":"080-DIGI-Not Verified",
-  "image":"2.jpg",
-  "location":"Ekeki",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Keprisy Collection",
-  "phone":"080-DIGI-Not Verified",
-  "image":"1.jpg",
-  "location":"Ekeki",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Emmasson Luxury Clothing",
-  "phone":"080643034-Not Verified",
-  "image":"1.jpg",
-  "location":"Opolo",
-  "Status":"Not Verified"
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
   },
   {
   "name":"Abuchi Collection",
-  "phone":"080631163-Not Verified",
-  "image":"1.jpg",
+  "phone":"08063116Not Verified",
+  "image":"3.jpg",
   "location":"Amarata",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Emmatex Collection",
-  "phone":"080-DIGI-Not Verified",
-  "image":"1.jpg",
-  "location":"Update in Progress",
-  "Status":"Not Verified"
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
   },
   {
   "name":"360 Closet",
-  "phone":"080365701-Not Verified",
-  "image":"3.jpg",
+  "phone":"08036570Not Verified",
+  "image":"2.jpg",
   "location":"Amarata",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Supreme Luxury Men",
-  "phone":"080603756-Not Verified",
-  "image":"1.jpg",
-  "location":"Ekeki",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Celebrity Looks",
-  "phone":"080-DIGI-Not Verified",
-  "image":"1.jpg",
-  "location":"Update in Progress",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Shalom Young World",
-  "phone":"080338852-Not Verified",
-  "image":"1.jpg",
-  "location":"Update in Progress",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"M-Series",
-  "phone":"090528549-Not Verified",
-  "image":"1.jpg",
-  "location":"Okutukutu",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Kennis Boutique",
-  "phone":"080635183-Not Verified",
-  "image":"2.jpg",
-  "location":"Update in Progress",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Bill Top Jose D.Fashion",
-  "phone":"070612246-Not Verified",
-  "image":"3.jpg",
-  "location":"Update in Progress",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Das Unisex Beauty Lounge",
-  "phone":"080-DIGI-Not Verified",
-  "image":"1.jpg",
-  "location":"Update in Progress",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"AG's Empire",
-  "phone":"081354446-Not Verified",
-  "image":"3.jpg",
-  "location":"Kpanisa",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Kiddies Street",
-  "phone":"081057387-Not Verified",
-  "image":"1.jpg",
-  "location":"Update in Progress",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Mildred Couture",
-  "phone":"070304023-Not Verified",
-  "image":"2.jpg",
-  "location":"Okaka",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"De Blessed Cornerstone Unisex",
-  "phone":"080-DIGI-Not Verified",
-  "image":"3.jpg",
-  "location":"Update in Progress",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Glory Rain Empire",
-  "phone":"081062292-Not Verified",
-  "image":"1.jpg",
-  "location":"Ekeki",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Triple E Beauty World",
-  "phone":"080350778-Not Verified",
-  "image":"3.jpg",
-  "location":"Ekeki",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Seles Ok",
-  "phone":"081469603-Not Verified",
-  "image":"3.jpg",
-  "location":"Kpanisa",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Lily-La-Diva Empire",
-  "phone":"080327198-Not Verified",
-  "image":"1.jpg",
-  "location":"Kpanisa",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Comfort Kit",
-  "phone":"080912018-Not Verified",
-  "image":"1.jpg",
-  "location":"Kpanisa",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"BB Outfit",
-  "phone":"091344298-Not Verified",
-  "image":"3.jpg",
-  "location":"Kpanisa",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"CJ Collection",
-  "phone":"080692513-Not Verified",
-  "image":"1.jpg",
-  "location":"Kpanisa",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Excellent Ladies Collection",
-  "phone":"080367725-Not Verified",
-  "image":"2.jpg",
-  "location":"Kpanisa",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Topic Outfit",
-  "phone":"080-DIGI-Not Verified",
-  "image":"2.jpg",
-  "location":"Kpanisa",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Colour Vine",
-  "phone":"080-DIGI-Not Verified",
-  "image":"3.jpg",
-  "location":"Update in Progress",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Bella's Place Boutique",
-  "phone":"080332329-Not Verified",
-  "image":"3.jpg",
-  "location":"Kpanisa",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Queen Me Collection",
-  "phone":"080-DIGI-Not Verified",
-  "image":"2.jpg",
-  "location":"Ekeki",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Splendid Trends",
-  "phone":"080-DIGI-Not Verified",
-  "image":"3.jpg",
-  "location":"Ekeki",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Ebi Vick Collection",
-  "phone":"080665409-Not Verified",
-  "image":"3.jpg",
-  "location":"Update in Progress",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"G world Collections",
-  "phone":"080-DIGI-Not Verified",
-  "image":"1.jpg",
-  "location":"Update in Progress",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"4 Royalty",
-  "phone":"081584433-Not Verified",
-  "image":"1.jpg",
-  "location":"Update in Progress",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Emmyte X Boutique",
-  "phone":"070309561-Not Verified",
-  "image":"1.jpg",
-  "location":"Update in Progress",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Temptation",
-  "phone":"080327197-Not Verified",
-  "image":"1.jpg",
-  "location":"Kpanisa",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Charlydon Outfit",
-  "phone":"090113216-Not Verified",
-  "image":"1.jpg",
-  "location":"Yenizue Gene",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Rena Emporium",
-  "phone":"080640230-Not Verified",
-  "image":"2.jpg",
-  "location":"Yenizue Gene",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Ugo Best Collection",
-  "phone":"070351151-Not Verified",
-  "image":"3.jpg",
-  "location":"Yenizue Gene",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Angel's Boutique",
-  "phone":"080642791-Not Verified",
-  "image":"1.jpg",
-  "location":"Yenizue Gene",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"St. Unique",
-  "phone":"080393178-Not Verified",
-  "image":"1.jpg",
-  "location":"Yenizue Gene",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Dorex Fashion Design",
-  "phone":"080511666-Not Verified",
-  "image":"2.jpg",
-  "location":"Yenizue Gene",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Mirror Fashion Collections",
-  "phone":"080351350-Not Verified",
-  "image":"1.jpg",
-  "location":"Yenizue Gene",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Ann's Spotlight Couture",
-  "phone":"080-DIGI-Not Verified",
-  "image":"1.jpg",
-  "location":"Yenizue Gene",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Sir ND Elegant Boutique",
-  "phone":"080638582-Not Verified",
-  "image":"3.jpg",
-  "location":"Yenizue Gene",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Akpos Exclusives",
-  "phone":"080-DIGI-Not Verified",
-  "image":"3.jpg",
-  "location":"Biogbolo",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Gili's Collection",
-  "phone":"081419986-Not Verified",
-  "image":"3.jpg",
-  "location":"Biogbolo",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Beula Styles",
-  "phone":"081139181-Not Verified",
-  "image":"3.jpg",
-  "location":"Biogbolo",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Austino Collection",
-  "phone":"080-DIGI-Not Verified",
-  "image":"3.jpg",
-  "location":"Biogbolo",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Dela Cream Collection",
-  "phone":"080-DIGI-Not Verified",
-  "image":"1.jpg",
-  "location":"Biogbolo",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Hello's Collection",
-  "phone":"070674660-Not Verified",
-  "image":"2.jpg",
-  "location":"Biogbolo",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Regirich Kokopee Nig ltd",
-  "phone":"081408863-Not Verified",
-  "image":"2.jpg",
-  "location":"Biogbolo",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Timi's Empire",
-  "phone":"080-DIGI-Not Verified",
-  "image":"2.jpg",
-  "location":"Biogbolo",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"L&S Signature",
-  "phone":"080851073-Not Verified",
-  "image":"2.jpg",
-  "location":"Biogbolo",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Superb Fashion Plaza",
-  "phone":"080-DIGI-Not Verified",
-  "image":"2.jpg",
-  "location":"Opolo",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"4 Real Luxury",
-  "phone":"080664159-Not Verified",
-  "image":"3.jpg",
-  "location":"Opolo",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Timmy's Nest",
-  "phone":"081449628-Not Verified",
-  "image":"1.jpg",
-  "location":"Biogbolo",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Debbilee's Empire",
-  "phone":"081667611-Not Verified",
-  "image":"1.jpg",
-  "location":"Okutukutu",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"De Blessed Uchetex Outfit",
-  "phone":"080-DIGI-Not Verified",
-  "image":"3.jpg",
-  "location":"Okutukutu",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Mark Mccarthy Outfit",
-  "phone":"090332857-Not Verified",
-  "image":"2.jpg",
-  "location":"Okutukutu",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Kemis3xpesure",
-  "phone":"070363678-Not Verified",
-  "image":"2.jpg",
-  "location":"Okutukutu",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Pharmtouch Fashion Hub",
-  "phone":"081673361-Not Verified",
-  "image":"1.jpg",
-  "location":"Etegwe",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Boss Outfit",
-  "phone":"080688226-Not Verified",
-  "image":"1.jpg",
-  "location":"Opolo",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Justy Collection",
-  "phone":"080-DIGI-Not Verified",
-  "image":"2.jpg",
-  "location":"Opolo",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Priceless Empire",
-  "phone":"081454555-Not Verified",
-  "image":"2.jpg",
-  "location":"Opolo",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Oga ND",
-  "phone":"080371118-Not Verified",
-  "image":"1.jpg",
-  "location":"Kpanisa",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Merrit Outfitters",
-  "phone":"090679347-Not Verified",
-  "image":"2.jpg",
-  "location":"Kpanisa",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Acho Gold Outfit",
-  "phone":"080-DIGI-Not Verified",
-  "image":"2.jpg",
-  "location":"Ekeki",
-  "Status":"Not Verified"
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
   },
   {
   "name":"Fly Wears",
-  "phone":"080633706-Not Verified",
+  "phone":"08063370Not Verified",
   "image":"1.jpg",
   "location":"Amarata",
-  "Status":"Not Verified"
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
   },
   {
   "name":"Uncle Sam Clothing",
-  "phone":"090350592-Not Verified",
+  "phone":"09035059Not Verified",
+  "image":"2.jpg",
+  "location":"Amarata",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Uzomos Boutique",
+  "phone":"08037783Not Verified",
+  "image":"2.jpg",
+  "location":"Amarata",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"OgeBright",
+  "phone":"080-DIGINot Verified",
+  "image":"2.jpg",
+  "location":"Amarata",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Watch Planet",
+  "phone":"080-DIGINot Verified",
+  "image":"2.jpg",
+  "location":"Amarata",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"PinoPino Footwears",
+  "phone":"08165886Not Verified",
+  "image":"1.jpg",
+  "location":"Amarata",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Majestic Cloth",
+  "phone":"08037425Not Verified",
   "image":"3.jpg",
   "location":"Amarata",
-  "Status":"Not Verified"
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
   },
   {
-  "name":"The Queen's Boutique",
-  "phone":"080354507-Not Verified",
-  "image":"3.jpg",
-  "location":"Onopa",
-  "Status":"Not Verified"
+  "name":"Akpos Exclusives",
+  "phone":"080-DIGINot Verified",
+  "image":"2.jpg",
+  "location":"Biogbolo",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
   },
   {
-  "name":"Preye's Closet",
-  "phone":"080-DIGI-Not Verified",
+  "name":"Gili's Collection",
+  "phone":"08141998Not Verified",
+  "image":"2.jpg",
+  "location":"Biogbolo",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Beula Styles",
+  "phone":"08113918Not Verified",
+  "image":"2.jpg",
+  "location":"Biogbolo",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Austino Collection",
+  "phone":"080-DIGINot Verified",
   "image":"1.jpg",
-  "location":"Opolo",
-  "Status":"Not Verified"
+  "location":"Biogbolo",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
   },
   {
-  "name":"Tiseb Fashions",
-  "phone":"080-DIGI-Not Verified",
-  "image":"1.jpg",
-  "location":"Yenizuegene",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Tom Bigger Collection",
-  "phone":"080333250-Not Verified",
+  "name":"Dela Cream Collection",
+  "phone":"080-DIGINot Verified",
   "image":"3.jpg",
-  "location":"Yenizuegene",
-  "Status":"Not Verified"
+  "location":"Biogbolo",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
   },
   {
-  "name":"Esty Blinkz",
-  "phone":"080-DIGI-Not Verified",
+  "name":"Hello's Collection",
+  "phone":"07067466Not Verified",
   "image":"3.jpg",
-  "location":"Yenizuegene",
-  "Status":"Not Verified"
+  "location":"Biogbolo",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
   },
   {
-  "name":"Tarikala",
-  "phone":"090577729-Not Verified",
+  "name":"Regirich Kokopee Nig ltd",
+  "phone":"08140886Not Verified",
+  "image":"2.jpg",
+  "location":"Biogbolo",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Timi's Empire",
+  "phone":"080-DIGINot Verified",
   "image":"1.jpg",
-  "location":"Yenizuegene",
-  "Status":"Not Verified"
+  "location":"Biogbolo",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
   },
   {
-  "name":"Orbital Fashion",
-  "phone":"080680475-Not Verified",
-  "image":"1.jpg",
-  "location":"Yenzuegene",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Innotex Boutique",
-  "phone":"080-DIGI-Not Verified",
+  "name":"L&S Signature",
+  "phone":"08085107Not Verified",
   "image":"3.jpg",
-  "location":"Yenizuegene",
-  "Status":"Not Verified"
+  "location":"Biogbolo",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Timmy's Nest",
+  "phone":"08144962Not Verified",
+  "image":"1.jpg",
+  "location":"Biogbolo",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Pathfinder Clothes",
+  "phone":"08064082Not Verified",
+  "image":"1.jpg",
+  "location":"Biogbolo",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Ogbuefi Ok Boutique",
+  "phone":"08032577Not Verified",
+  "image":"1.jpg",
+  "location":"Ekeki",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Bodis Closet",
+  "phone":"080-DIGINot Verified",
+  "image":"2.jpg",
+  "location":"Ekeki",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Uk Divine Boutique",
+  "phone":"080-DIGINot Verified",
+  "image":"1.jpg",
+  "location":"Ekeki",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Ebi Exclusive",
+  "phone":"08036338Not Verified",
+  "image":"3.jpg",
+  "location":"Ekeki",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Native Wear World",
+  "phone":"080-DIGINot Verified",
+  "image":"2.jpg",
+  "location":"Ekeki",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"PEP",
+  "phone":"080-DIGINot Verified",
+  "image":"2.jpg",
+  "location":"Ekeki",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Angel's Closet",
+  "phone":"080-DIGINot Verified",
+  "image":"2.jpg",
+  "location":"Ekeki",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Keprisy Collection",
+  "phone":"080-DIGINot Verified",
+  "image":"3.jpg",
+  "location":"Ekeki",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Supreme Luxury Men",
+  "phone":"08060375Not Verified",
+  "image":"1.jpg",
+  "location":"Ekeki",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Glory Rain Empire",
+  "phone":"08106229Not Verified",
+  "image":"2.jpg",
+  "location":"Ekeki",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Triple E Beauty World",
+  "phone":"08035077Not Verified",
+  "image":"3.jpg",
+  "location":"Ekeki",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Queen Me Collection",
+  "phone":"080-DIGINot Verified",
+  "image":"1.jpg",
+  "location":"Ekeki",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Splendid Trends",
+  "phone":"080-DIGINot Verified",
+  "image":"2.jpg",
+  "location":"Ekeki",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Acho Gold Outfit",
+  "phone":"080-DIGINot Verified",
+  "image":"2.jpg",
+  "location":"Ekeki",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
   },
   {
   "name":"Lady K's Empire",
-  "phone":"090150817-Not Verified",
+  "phone":"08125611Not Verified",
   "image":"1.jpg",
   "location":"Ekeki",
-  "Status":"Not Verified"
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
   },
   {
   "name":"Ritzy's Empire",
-  "phone":"080648831-Not Verified",
-  "image":"2.jpg",
+  "phone":"08064883Not Verified",
+  "image":"3.jpg",
   "location":"Ekeki",
-  "Status":"Not Verified"
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
   },
   {
   "name":"Comfort Collections",
-  "phone":"080374344-Not Verified",
+  "phone":"08037434Not Verified",
   "image":"3.jpg",
   "location":"Ekeki",
-  "Status":"Not Verified"
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
   },
   {
   "name":"Majestic",
-  "phone":"080-DIGI-Not Verified",
-  "image":"2.jpg",
+  "phone":"080-DIGINot Verified",
+  "image":"1.jpg",
   "location":"Ekeki",
-  "Status":"Not Verified"
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
   },
   {
   "name":"Intimate Essentiaks",
-  "phone":"080-DIGI-Not Verified",
+  "phone":"080-DIGINot Verified",
   "image":"1.jpg",
   "location":"Ekeki",
-  "Status":"Not Verified"
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
   },
   {
   "name":"Hattrick",
-  "phone":"080307159-Not Verified",
-  "image":"3.jpg",
+  "phone":"08030715Not Verified",
+  "image":"2.jpg",
   "location":"Ekeki",
-  "Status":"Not Verified"
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
   },
   {
   "name":"Mjay's Empire",
-  "phone":"080346679-Not Verified",
-  "image":"1.jpg",
+  "phone":"08034667Not Verified",
+  "image":"3.jpg",
   "location":"Ekeki",
-  "Status":"Not Verified"
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
   },
   {
   "name":"ShoeHaven",
-  "phone":"080634356-Not Verified",
-  "image":"1.jpg",
+  "phone":"08063435Not Verified",
+  "image":"3.jpg",
   "location":"Ekeki",
-  "Status":"Not Verified"
-  },
-  {
-  "name":"Said Jallabiya Fashion",
-  "phone":"080360357-Not Verified",
-  "image":"2.jpg",
-  "location":"Yenizuegene",
-  "Status":"Not Verified"
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
   },
   {
   "name":"Goodness and Mercy Cultural Centre",
-  "phone":"080367265-Not Verified",
-  "image":"3.jpg",
+  "phone":"08036726Not Verified",
+  "image":"1.jpg",
   "location":"Ekeki",
-  "Status":"Not Verified"
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
   },
   {
   "name":"Petite Apparel",
-  "phone":"070899663-Not Verified",
+  "phone":"07089966Not Verified",
   "image":"3.jpg",
   "location":"Ekeki",
-  "Status":"Not Verified"
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
   },
   {
   "name":"Rhodyz Boutique",
-  "phone":"080641040-Not Verified",
-  "image":"1.jpg",
+  "phone":"08064104Not Verified",
+  "image":"3.jpg",
   "location":"Ekeki",
-  "Status":"Not Verified"
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
   },
   {
   "name":"Tems Jewrey",
-  "phone":"070302665-Not Verified",
+  "phone":"07030266Not Verified",
+  "image":"2.jpg",
+  "location":"Ekeki",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Feargod Collections",
+  "phone":"08160808Not Verified",
   "image":"3.jpg",
   "location":"Ekeki",
-  "Status":"Not Verified"
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Perry Signature",
+  "phone":"09022711Not Verified",
+  "image":"1.jpg",
+  "location":"Ekeki",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Emi's Empire",
+  "phone":"07066016Not Verified",
+  "image":"3.jpg",
+  "location":"Ekeki",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Emmyte X Boutique",
+  "phone":"07030956Not Verified",
+  "image":"2.jpg",
+  "location":"Etegwe",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Pharmtouch Fashion Hub",
+  "phone":"08167336Not Verified",
+  "image":"3.jpg",
+  "location":"Etegwe",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Devals Shoes",
+  "phone":"08035424Not Verified",
+  "image":"2.jpg",
+  "location":"Etegwe",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Classic World Foot Designers",
+  "phone":"08064717Not Verified",
+  "image":"2.jpg",
+  "location":"Etegwe",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Sharon's Apparel",
+  "phone":"08064741Not Verified",
+  "image":"2.jpg",
+  "location":"Etegwe",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Courtesy Belles",
+  "phone":"08064428Not Verified",
+  "image":"1.jpg",
+  "location":"Etegwe",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Blessed Sunny Boutique",
+  "phone":"08162150Not Verified",
+  "image":"1.jpg",
+  "location":"Etegwe",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Chukason Outfit",
+  "phone":"08127278Not Verified",
+  "image":"2.jpg",
+  "location":"Etegwe",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Ebi-Vick Collection",
+  "phone":"08066542Not Verified",
+  "image":"2.jpg",
+  "location":"Etegwe",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"G-World Collections",
+  "phone":"080-DIGINot Verified",
+  "image":"1.jpg",
+  "location":"Etegwe",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Togo Shoes",
+  "phone":"09034168Not Verified",
+  "image":"3.jpg",
+  "location":"Etegwe",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Sandrell's Concept",
+  "phone":"08035119Not Verified",
+  "image":"3.jpg",
+  "location":"Kpanisa",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Can Boutique",
+  "phone":"08088682Not Verified",
+  "image":"3.jpg",
+  "location":"Kpanisa",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Foreign man Boutique",
+  "phone":"08088609Not Verified",
+  "image":"1.jpg",
+  "location":"Kpanisa",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"BLESS Signature",
+  "phone":"08126696Not Verified",
+  "image":"2.jpg",
+  "location":"Kpanisa",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"AG's Empire",
+  "phone":"08135444Not Verified",
+  "image":"3.jpg",
+  "location":"Kpanisa",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Seles Ok",
+  "phone":"08146960Not Verified",
+  "image":"1.jpg",
+  "location":"Kpanisa",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Lily-La-Diva Empire",
+  "phone":"08032719Not Verified",
+  "image":"3.jpg",
+  "location":"Kpanisa",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Comfort Kit",
+  "phone":"08091201Not Verified",
+  "image":"3.jpg",
+  "location":"Kpanisa",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"BB Outfit",
+  "phone":"09134429Not Verified",
+  "image":"2.jpg",
+  "location":"Kpanisa",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"CJ Collection",
+  "phone":"08069251Not Verified",
+  "image":"1.jpg",
+  "location":"Kpanisa",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Excellent Ladies Collection",
+  "phone":"08036772Not Verified",
+  "image":"3.jpg",
+  "location":"Kpanisa",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Topic Outfit",
+  "phone":"080-DIGINot Verified",
+  "image":"3.jpg",
+  "location":"Kpanisa",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Bella's Place Boutique",
+  "phone":"08033232Not Verified",
+  "image":"3.jpg",
+  "location":"Kpanisa",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Temptation",
+  "phone":"08032719Not Verified",
+  "image":"3.jpg",
+  "location":"Kpanisa",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Oga ND",
+  "phone":"08037111Not Verified",
+  "image":"2.jpg",
+  "location":"Kpanisa",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Merrit Outfitters",
+  "phone":"09067934Not Verified",
+  "image":"2.jpg",
+  "location":"Kpanisa",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Seles Collection",
+  "phone":"08135026Not Verified",
+  "image":"2.jpg",
+  "location":"Kpanisa",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Lee Kimmy's Unisex Collection",
+  "phone":"08063580Not Verified",
+  "image":"2.jpg",
+  "location":"Kpanisa",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Saint John Update's",
+  "phone":"08122733Not Verified",
+  "image":"1.jpg",
+  "location":"Kpanisa",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Justice Boutique",
+  "phone":"08100989Not Verified",
+  "image":"3.jpg",
+  "location":"Kpanisa",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Bontus Boutique",
+  "phone":"08064603Not Verified",
+  "image":"3.jpg",
+  "location":"Kpanisa",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"NDs Boutique",
+  "phone":"08069499Not Verified",
+  "image":"2.jpg",
+  "location":"Okaka",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Mildred Couture",
+  "phone":"07030402Not Verified",
+  "image":"3.jpg",
+  "location":"Okaka",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Anabela Fashion World",
+  "phone":"09034729Not Verified",
+  "image":"3.jpg",
+  "location":"Okaka",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Solid Boutique",
+  "phone":"080-DIGINot Verified",
+  "image":"2.jpg",
+  "location":"Okaka",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Bblex Fabrics/Collections",
+  "phone":"08104629Not Verified",
+  "image":"2.jpg",
+  "location":"Okaka",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Owelenze's Collections",
+  "phone":"07062750Not Verified",
+  "image":"3.jpg",
+  "location":"Okaka",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Nazap Closet",
+  "phone":"08108190Not Verified",
+  "image":"1.jpg",
+  "location":"Okaka",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"De Beauty",
+  "phone":"08166992Not Verified",
+  "image":"2.jpg",
+  "location":"Okaka",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"C.j Nice Fashion plaza",
+  "phone":"08100468Not Verified",
+  "image":"3.jpg",
+  "location":"Okutukutu",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Da cedars Unisex Collections",
+  "phone":"09029394Not Verified",
+  "image":"1.jpg",
+  "location":"Okutukutu",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Evelyn's Closet",
+  "phone":"08141791Not Verified",
+  "image":"1.jpg",
+  "location":"Okutukutu",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"M-Series",
+  "phone":"09052854Not Verified",
+  "image":"1.jpg",
+  "location":"Okutukutu",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Debbilee's Empire",
+  "phone":"08166761Not Verified",
+  "image":"1.jpg",
+  "location":"Okutukutu",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"De Blessed Uchetex Outfit",
+  "phone":"080-DIGINot Verified",
+  "image":"3.jpg",
+  "location":"Okutukutu",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Mark Mccarthy Outfit",
+  "phone":"09033285Not Verified",
+  "image":"1.jpg",
+  "location":"Okutukutu",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Kemis3xpesure",
+  "phone":"07036367Not Verified",
+  "image":"2.jpg",
+  "location":"Okutukutu",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Walez Designer",
+  "phone":"07035298Not Verified",
+  "image":"2.jpg",
+  "location":"Okutukutu",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Uniq D's Collections",
+  "phone":"08038351Not Verified",
+  "image":"3.jpg",
+  "location":"Okutukutu",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"The Queen's Boutique",
+  "phone":"08035450Not Verified",
+  "image":"2.jpg",
+  "location":"Onopa",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Rels Styles Fashion Home",
+  "phone":"080-DIGINot Verified",
+  "image":"3.jpg",
+  "location":"Onopa",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Yik's Fashion World",
+  "phone":"080-DIGINot Verified",
+  "image":"3.jpg",
+  "location":"Onopa",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Emmasson Luxury Clothing",
+  "phone":"08064303Not Verified",
+  "image":"2.jpg",
+  "location":"Opolo",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Superb Fashion Plaza",
+  "phone":"080-DIGINot Verified",
+  "image":"3.jpg",
+  "location":"Opolo",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"4 Real Luxury",
+  "phone":"08066415Not Verified",
+  "image":"2.jpg",
+  "location":"Opolo",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Boss Outfit",
+  "phone":"08068822Not Verified",
+  "image":"1.jpg",
+  "location":"Opolo",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Justy Collection",
+  "phone":"080-DIGINot Verified",
+  "image":"2.jpg",
+  "location":"Opolo",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Priceless Empire",
+  "phone":"08145455Not Verified",
+  "image":"2.jpg",
+  "location":"Opolo",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Preye's Closet",
+  "phone":"080-DIGINot Verified",
+  "image":"1.jpg",
+  "location":"Opolo",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"MMA Wardrobe Therapy",
+  "phone":"080-DIGINot Verified",
+  "image":"2.jpg",
+  "location":"Opolo",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Charming Wears",
+  "phone":"07039292Not Verified",
+  "image":"3.jpg",
+  "location":"Opolo",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Jtiwa Fashion World",
+  "phone":"07042203Not Verified",
+  "image":"3.jpg",
+  "location":"Opolo",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Obaino's Clothes",
+  "phone":"07014000Not Verified",
+  "image":"2.jpg",
+  "location":"Opolo",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Lucky Collection",
+  "phone":"08068330Not Verified",
+  "image":"1.jpg",
+  "location":"Opolo",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Judenture Fashion",
+  "phone":"08064305Not Verified",
+  "image":"1.jpg",
+  "location":"Opolo",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Victor White",
+  "phone":"080-DIGINot Verified",
+  "image":"1.jpg",
+  "location":"Opolo",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Pearlies Fashion House",
+  "phone":"08142985Not Verified",
+  "image":"3.jpg",
+  "location":"Opolo",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"O world Collection",
+  "phone":"08036121Not Verified",
+  "image":"2.jpg",
+  "location":"Opolo",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Options Clothes",
+  "phone":"080-DIGINot Verified",
+  "image":"1.jpg",
+  "location":"Opolo",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Emm Don Outfit",
+  "phone":"08182659Not Verified",
+  "image":"2.jpg",
+  "location":"Opolo",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Deinyefa Fabric",
+  "phone":"08063369Not Verified",
+  "image":"2.jpg",
+  "location":"Opolo",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Sudok Boutique",
+  "phone":"09068527Not Verified",
+  "image":"2.jpg",
+  "location":"Opolo",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"KK's Boutique",
+  "phone":"08036342Not Verified",
+  "image":"2.jpg",
+  "location":"Opolo",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Sini Unique Fabrics",
+  "phone":"08063824Not Verified",
+  "image":"2.jpg",
+  "location":"Opolo",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"RMJ Signature",
+  "phone":"080-DIGINot Verified",
+  "image":"3.jpg",
+  "location":"Opolo",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Wi7 World",
+  "phone":"080-DIGINot Verified",
+  "image":"2.jpg",
+  "location":"Opolo",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Martinez Collections",
+  "phone":"09061112Not Verified",
+  "image":"2.jpg",
+  "location":"Opolo",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Joe Xclusive",
+  "phone":"080-DIGINot Verified",
+  "image":"2.jpg",
+  "location":"Opolo",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Charlydon Outfit",
+  "phone":"09011321Not Verified",
+  "image":"1.jpg",
+  "location":"Yenizue Gene",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Rena Emporium",
+  "phone":"08064023Not Verified",
+  "image":"2.jpg",
+  "location":"Yenizue Gene",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Ugo Best Collection",
+  "phone":"07035115Not Verified",
+  "image":"3.jpg",
+  "location":"Yenizue Gene",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Angel's Boutique",
+  "phone":"08064279Not Verified",
+  "image":"3.jpg",
+  "location":"Yenizue Gene",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"St. Unique",
+  "phone":"08039317Not Verified",
+  "image":"2.jpg",
+  "location":"Yenizue Gene",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Dorex Fashion Design",
+  "phone":"08051166Not Verified",
+  "image":"2.jpg",
+  "location":"Yenizue Gene",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Mirror Fashion Collections",
+  "phone":"08035135Not Verified",
+  "image":"3.jpg",
+  "location":"Yenizue Gene",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Ann's Spotlight Couture",
+  "phone":"080-DIGINot Verified",
+  "image":"3.jpg",
+  "location":"Yenizue Gene",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Sir ND Elegant Boutique",
+  "phone":"08063858Not Verified",
+  "image":"1.jpg",
+  "location":"Yenizue Gene",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Tiseb Fashions",
+  "phone":"080-DIGINot Verified",
+  "image":"1.jpg",
+  "location":"Yenizuegene",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Tom Bigger Collection",
+  "phone":"08033325Not Verified",
+  "image":"1.jpg",
+  "location":"Yenizuegene",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Esty Blinkz",
+  "phone":"080-DIGINot Verified",
+  "image":"1.jpg",
+  "location":"Yenizuegene",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Tarikala",
+  "phone":"09057772Not Verified",
+  "image":"3.jpg",
+  "location":"Yenizuegene",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Innotex Boutique",
+  "phone":"080-DIGINot Verified",
+  "image":"1.jpg",
+  "location":"Yenizuegene",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Said Jallabiya Fashion",
+  "phone":"08036035Not Verified",
+  "image":"1.jpg",
+  "location":"Yenizuegene",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Orbital Fashion",
+  "phone":"08068047Not Verified",
+  "image":"3.jpg",
+  "location":"Yenzuegene",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
   }
   
 ]

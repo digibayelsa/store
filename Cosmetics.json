@@ -1,171 +1,289 @@
-[
+[{
+  "name":"DIGIBAYELSA",
+  "phone":"080-DIGINot Verified",
+  "image":"3.jpg",
+  "location":"Opolo",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
   {
-    "name":"Mirra Cosmetics and Spas",
-    "phone":"08038005-Not Verified",
-    "image":"1.jpg",
-    "location":"Yenizuegene",
-    "Status":"Not Verified"
-    },
-    {
-    "name":"Glozy Cosmetic Shop",
-    "phone":"08122560-Not Verified",
-    "image":"3.jpg",
-    "location":"Okutukutu",
-    "Status":"Not Verified"
-    },
-    {
-    "name":"Ebisco's Makeup Studio",
-    "phone":"09013328-Not Verified",
-    "image":"2.jpg",
-    "location":"Etegwe",
-    "Status":"Not Verified"
-    },
-    {
-    "name":"Pizzy Cosmetics",
-    "phone":"08036388-Not Verified",
-    "image":"1.jpg",
-    "location":"Yenizuegene",
-    "Status":"Not Verified"
-    },
-    {
-    "name":"Juli & More Enterprise",
-    "phone":"07038727-Not Verified",
-    "image":"1.jpg",
-    "location":"Yenizuegene",
-    "Status":"Not Verified"
-    },
-    {
-    "name":"TheKays",
-    "phone":"09071173-Not Verified",
-    "image":"2.jpg",
-    "location":"Biogbolo",
-    "Status":"Not Verified"
-    },
-    {
-    "name":"B' Skincare and Makeup Studio",
-    "phone":"08021175-Not Verified",
-    "image":"1.jpg",
-    "location":"Biogbolo",
-    "Status":"Not Verified"
-    },
-    {
-    "name":"Shimmers Place",
-    "phone":"08136295-Not Verified",
-    "image":"2.jpg",
-    "location":"Biogbolo",
-    "Status":"Not Verified"
-    },
-    {
-    "name":"Pedestar",
-    "phone":"08039232-Not Verified",
-    "image":"3.jpg",
-    "location":"Biogbolo",
-    "Status":"Not Verified"
-    },
-    {
-    "name":"Tizo craft and glam",
-    "phone":"080-DIGI-Not Verified",
-    "image":"2.jpg",
-    "location":"Opolo",
-    "Status":"Not Verified"
-    },
-    {
-    "name":"Ebijas Signature",
-    "phone":"08155847-Not Verified",
-    "image":"1.jpg",
-    "location":"Kpansia",
-    "Status":"Not Verified"
-    },
-    {
-    "name":"Samat",
-    "phone":"07032434-Not Verified",
-    "image":"3.jpg",
-    "location":"Kpansia",
-    "Status":"Not Verified"
-    },
-    {
-    "name":"Farida Skincare & spa",
-    "phone":"07038359-Not Verified",
-    "image":"2.jpg",
-    "location":"Kpansia",
-    "Status":"Not Verified"
-    },
-    {
-    "name":"Lilysglam Organics",
-    "phone":"08117488-Not Verified",
-    "image":"3.jpg",
-    "location":"Kpansia",
-    "Status":"Not Verified"
-    },
-    {
-    "name":"Spciy Glam",
-    "phone":"08181345-Not Verified",
-    "image":"1.jpg",
-    "location":"Okutukutu",
-    "Status":"Not Verified"
-    },
-    {
-    "name":"Samat",
-    "phone":"07032434-Not Verified",
-    "image":"3.jpg",
-    "location":"Amarata",
-    "Status":"Not Verified"
-    },
-    {
-    "name":"Smooth and Easy Life Cosmetics",
-    "phone":"08069495-Not Verified",
-    "image":"3.jpg",
-    "location":"Onopa",
-    "Status":"Not Verified"
-    },
-    {
-    "name":"Studio Diamond",
-    "phone":"08034311-Not Verified",
-    "image":"2.jpg",
-    "location":"Biogbolo",
-    "Status":"Not Verified"
-    },
-    {
-    "name":"Cozy Hair",
-    "phone":"08167223-Not Verified",
-    "image":"3.jpg",
-    "location":"Biogbolo",
-    "Status":"Not Verified"
-    },
-    {
-    "name":"Ogo Best Beauty Centre",
-    "phone":"08033723-Not Verified",
-    "image":"1.jpg",
-    "location":"Yenizuegene",
-    "Status":"Not Verified"
-    },
-    {
-    "name":"Princess Hair Cosmetics",
-    "phone":"08078119-Not Verified",
-    "image":"1.jpg",
-    "location":"Yenizuegene",
-    "Status":"Not Verified"
-    },
-    {
-    "name":"Cuties Beauty Place",
-    "phone":"08142760-Not Verified",
-    "image":"2.jpg",
-    "location":"Yenizuegene",
-    "Status":"Not Verified"
-    },
-    {
-    "name":"Abuchi Beauty",
-    "phone":"07060701-Not Verified",
-    "image":"3.jpg",
-    "location":"Ekeki",
-    "Status":"Not Verified"
-    },
-    {
-    "name":"Emirose Empire",
-    "phone":"08133677-Not Verified",
-    "image":"1.jpg",
-    "location":"Ekeki",
-    "Status":"Not Verified"
-    }
-    
+  "name":"DIGIBAYELSA",
+  "phone":"080-DIGINot Verified",
+  "image":"2.jpg",
+  "location":"Ekeki",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },{
+  "name":"Mirra Cosmetics and Spas",
+  "phone":"08038005Not Verified",
+  "image":"1.jpg",
+  "location":"Yenizuegene",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/"
+  },
+  {
+  "name":"Glozy Cosmetic Shop",
+  "phone":"08122560Not Verified",
+  "image":"1.jpg",
+  "location":"Okutukutu",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/"
+  },
+  {
+  "name":"Ebisco's Makeup Studio",
+  "phone":"09013328Not Verified",
+  "image":"3.jpg",
+  "location":"Etegwe",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/"
+  },
+  {
+  "name":"Pizzy Cosmetics",
+  "phone":"08036388Not Verified",
+  "image":"2.jpg",
+  "location":"Yenizuegene",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/"
+  },
+  {
+  "name":"Juli & More Enterprise",
+  "phone":"07038727Not Verified",
+  "image":"1.jpg",
+  "location":"Yenizuegene",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/"
+  },
+  {
+  "name":"TheKays",
+  "phone":"09071173Not Verified",
+  "image":"3.jpg",
+  "location":"Biogbolo",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/"
+  },
+  {
+  "name":"B' Skincare and Makeup Studio",
+  "phone":"08021175Not Verified",
+  "image":"3.jpg",
+  "location":"Biogbolo",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/"
+  },
+  {
+  "name":"Shimmers Place",
+  "phone":"08136295Not Verified",
+  "image":"2.jpg",
+  "location":"Biogbolo",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/"
+  },
+  {
+  "name":"Pedestar",
+  "phone":"08039232Not Verified",
+  "image":"2.jpg",
+  "location":"Biogbolo",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/"
+  },
+  {
+  "name":"Tizo craft and glam",
+  "phone":"080-DIGINot Verified",
+  "image":"3.jpg",
+  "location":"Opolo",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/"
+  },
+  {
+  "name":"Ebijas Signature",
+  "phone":"08155847Not Verified",
+  "image":"1.jpg",
+  "location":"Kpansia",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/"
+  },
+  {
+  "name":"Samat",
+  "phone":"07032434Not Verified",
+  "image":"1.jpg",
+  "location":"Kpansia",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/"
+  },
+  {
+  "name":"Farida Skincare & spa",
+  "phone":"07038359Not Verified",
+  "image":"1.jpg",
+  "location":"Kpansia",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/"
+  },
+  {
+  "name":"Lilysglam Organics",
+  "phone":"08117488Not Verified",
+  "image":"3.jpg",
+  "location":"Kpansia",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/"
+  },
+  {
+  "name":"Spciy Glam",
+  "phone":"08181345Not Verified",
+  "image":"1.jpg",
+  "location":"Okutukutu",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/"
+  },
+  {
+  "name":"Samat",
+  "phone":"07032434Not Verified",
+  "image":"3.jpg",
+  "location":"Amarata",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/"
+  },
+  {
+  "name":"Smooth and Easy Life Cosmetics",
+  "phone":"08069495Not Verified",
+  "image":"3.jpg",
+  "location":"Onopa",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/"
+  },
+  {
+  "name":"Studio Diamond",
+  "phone":"08034311Not Verified",
+  "image":"1.jpg",
+  "location":"Biogbolo",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/"
+  },
+  {
+  "name":"Cozy Hair",
+  "phone":"08167223Not Verified",
+  "image":"3.jpg",
+  "location":"Biogbolo",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/"
+  },
+  {
+  "name":"Ogo Best Beauty Centre",
+  "phone":"08033723Not Verified",
+  "image":"1.jpg",
+  "location":"Yenizuegene",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/"
+  },
+  {
+  "name":"Princess Hair Cosmetics",
+  "phone":"08078119Not Verified",
+  "image":"1.jpg",
+  "location":"Yenizuegene",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/"
+  },
+  {
+  "name":"Cuties Beauty Place",
+  "phone":"08142760Not Verified",
+  "image":"1.jpg",
+  "location":"Yenizuegene",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/"
+  },
+  {
+  "name":"Abuchi Beauty",
+  "phone":"07060701Not Verified",
+  "image":"2.jpg",
+  "location":"Ekeki",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/"
+  },
+  {
+  "name":"Emirose Empire",
+  "phone":"08133677Not Verified",
+  "image":"2.jpg",
+  "location":"Ekeki",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/"
+  },
+  {
+  "name":"Mimi's Glam",
+  "phone":"080-DIGINot Verified",
+  "image":"1.jpg",
+  "location":"Kpansia",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/"
+  },
+  {
+  "name":"Liposh Hair and Skin Glow Spa",
+  "phone":"07031308Not Verified",
+  "image":"3.jpg",
+  "location":"Kpansia",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/"
+  },
+  {
+  "name":"Smooth and Easy Life Cosmetics",
+  "phone":"080-DIGINot Verified",
+  "image":"1.jpg",
+  "location":"Amarata",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/"
+  },
+  {
+  "name":"Dee's Beauty Palor",
+  "phone":"080-DIGINot Verified",
+  "image":"3.jpg",
+  "location":"Opolo",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/"
+  },
+  {
+  "name":"Winning Cosmetics",
+  "phone":"07067465Not Verified",
+  "image":"2.jpg",
+  "location":"Okutukutu",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/"
+  },
+  {
+  "name":"Fomacreateit Makeup Studio",
+  "phone":"08097036Not Verified",
+  "image":"3.jpg",
+  "location":"Okutukutu",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/"
+  },
+  {
+  "name":"Excellent Skin & Beauty Care",
+  "phone":"08134058Not Verified",
+  "image":"1.jpg",
+  "location":"Opolo",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/"
+  },
+  {
+  "name":"Happiness Beauty Salon",
+  "phone":"08130034Not Verified",
+  "image":"3.jpg",
+  "location":"Opolo",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/"
+  },
+  {
+  "name":"Seiyefa's Beauty",
+  "phone":"08169982Not Verified",
+  "image":"1.jpg",
+  "location":"Okaka",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/"
+  },
+  {
+  "name":"Clairevera Beauty Home",
+  "phone":"08038347Not Verified",
+  "image":"3.jpg",
+  "location":"Biogbolo",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/"
+  }
+  
 ]

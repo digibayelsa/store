@@ -1,122 +1,258 @@
-[
+[{
+  "name":"DIGIBAYELSA",
+  "phone":"080-DIGINot Verified",
+  "image":"3.jpg",
+  "location":"Opolo",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"DIGIBAYELSA",
+  "phone":"080-DIGINot Verified",
+  "image":"2.jpg",
+  "location":"Ekeki",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
   {
     "name":"Attractivia",
-    "phone":"09133839-Not Verified",
+    "phone":"91338397Not Verified",
     "image":"2.jpg",
     "location":"Yenizue Gene",
-    "Status":"Not Verified"
+    "status":"Not Verified",
+    "link":"https://digibayelsa.github.io/getverified/verify.html"
     },
     {
     "name":"Tet Luxury Unisex Salon",
-    "phone":"080-DIGI-Not Verified",
+    "phone":"080-DIGINot Verified",
     "image":"1.jpg",
     "location":"Okutukutu",
-    "Status":"Not Verified"
+    "status":"Not Verified",
+    "link":"https://digibayelsa.github.io/getverified/verify.html"
     },
     {
     "name":"Valerie Unisex Salon",
-    "phone":"09011303-Not Verified",
-    "image":"1.jpg",
+    "phone":"09011303Not Verified",
+    "image":"2.jpg",
     "location":"Okutukutu",
-    "Status":"Not Verified"
+    "status":"Not Verified",
+    "link":"https://digibayelsa.github.io/getverified/verify.html"
     },
     {
     "name":"Bel's Beauty Empire",
-    "phone":"08054712-Not Verified",
+    "phone":"08054712Not Verified",
     "image":"1.jpg",
     "location":"Yenizuegene",
-    "Status":"Not Verified"
+    "status":"Not Verified",
+    "link":"https://digibayelsa.github.io/getverified/verify.html"
     },
     {
     "name":"Maccai's Place salon/Beauty Palour",
-    "phone":"08161630-Not Verified",
+    "phone":"08161630Not Verified",
     "image":"1.jpg",
     "location":"Biogbolo",
-    "Status":"Not Verified"
+    "status":"Not Verified",
+    "link":"https://digibayelsa.github.io/getverified/verify.html"
     },
     {
     "name":"FJM beauty Salon",
-    "phone":"07061027-Not Verified",
+    "phone":"07061027Not Verified",
     "image":"1.jpg",
     "location":"Opolo",
-    "Status":"Not Verified"
+    "status":"Not Verified",
+    "link":"https://digibayelsa.github.io/getverified/verify.html"
     },
     {
     "name":"Adam&Eve Beauty Salon",
-    "phone":"080-DIGI-Not Verified",
-    "image":"2.jpg",
+    "phone":"080-DIGINot Verified",
+    "image":"3.jpg",
     "location":"Okutukutu",
-    "Status":"Not Verified"
+    "status":"Not Verified",
+    "link":"https://digibayelsa.github.io/getverified/verify.html"
     },
     {
     "name":"Jerome Beauty Salon",
-    "phone":"080-DIGI-Not Verified",
-    "image":"2.jpg",
+    "phone":"080-DIGINot Verified",
+    "image":"1.jpg",
     "location":"Okutukutu",
-    "Status":"Not Verified"
+    "status":"Not Verified",
+    "link":"https://digibayelsa.github.io/getverified/verify.html"
     },
     {
     "name":"Touch of Excellence Beauty Salon",
-    "phone":"07061807-Not Verified",
-    "image":"1.jpg",
+    "phone":"07061807Not Verified",
+    "image":"2.jpg",
     "location":"Kpanisa",
-    "Status":"Not Verified"
+    "status":"Not Verified",
+    "link":"https://digibayelsa.github.io/getverified/verify.html"
     },
     {
     "name":"PS Paradise Beauty Salon",
-    "phone":"08100214-Not Verified",
-    "image":"1.jpg",
+    "phone":"08100214Not Verified",
+    "image":"2.jpg",
     "location":"Okaka",
-    "Status":"Not Verified"
+    "status":"Not Verified",
+    "link":"https://digibayelsa.github.io/getverified/verify.html"
     },
     {
     "name":"De Blessed Cornerstone Unisex Salon",
-    "phone":"09071749-Not Verified",
-    "image":"3.jpg",
+    "phone":"09071749Not Verified",
+    "image":"2.jpg",
     "location":"Okaka",
-    "Status":"Not Verified"
+    "status":"Not Verified",
+    "link":"https://digibayelsa.github.io/getverified/verify.html"
     },
     {
     "name":"Crownson Unisex Salon",
-    "phone":"07030783-Not Verified",
+    "phone":"07030783Not Verified",
     "image":"1.jpg",
     "location":"Ekeki",
-    "Status":"Not Verified"
+    "status":"Not Verified",
+    "link":"https://digibayelsa.github.io/getverified/verify.html"
     },
     {
     "name":"Bella Beauty Salon",
-    "phone":"08066649-Not Verified",
+    "phone":"08066649Not Verified",
     "image":"1.jpg",
     "location":"Amarata",
-    "Status":"Not Verified"
+    "status":"Not Verified",
+    "link":"https://digibayelsa.github.io/getverified/verify.html"
     },
     {
     "name":"Sliq Unisex Salon",
-    "phone":"09076159-Not Verified",
-    "image":"3.jpg",
+    "phone":"09076159Not Verified",
+    "image":"1.jpg",
     "location":"Ekeki",
-    "Status":"Not Verified"
+    "status":"Not Verified",
+    "link":"https://digibayelsa.github.io/getverified/verify.html"
     },
     {
     "name":"Tok's Beauty Palace",
-    "phone":"080-DIGI-Not Verified",
+    "phone":"080-DIGINot Verified",
     "image":"3.jpg",
     "location":"Ekeki",
-    "Status":"Not Verified"
+    "status":"Not Verified",
+    "link":"https://digibayelsa.github.io/getverified/verify.html"
     },
     {
     "name":"Sunshine's Beauty Palour",
-    "phone":"08130101-Not Verified",
-    "image":"2.jpg",
+    "phone":"08130101Not Verified",
+    "image":"3.jpg",
     "location":"Ekeki",
-    "Status":"Not Verified"
+    "status":"Not Verified",
+    "link":"https://digibayelsa.github.io/getverified/verify.html"
     },
     {
     "name":"Anointed Fingers",
-    "phone":"080-DIGI-Not Verified",
+    "phone":"080-DIGINot Verified",
     "image":"2.jpg",
     "location":"Ekeki",
-    "Status":"Not Verified"
+    "status":"Not Verified",
+    "link":"https://digibayelsa.github.io/getverified/verify.html"
+    },
+    {
+    "name":"Prosper Beauty Empire",
+    "phone":"080-DIGINot Verified",
+    "image":"1.jpg",
+    "location":"Amarata",
+    "status":"Not Verified",
+    "link":"https://digibayelsa.github.io/getverified/verify.html"
+    },
+    {
+    "name":"Eniz Sanchez Beauty Salon",
+    "phone":"08013562Not Verified",
+    "image":"3.jpg",
+    "location":"Amarata",
+    "status":"Not Verified",
+    "link":"https://digibayelsa.github.io/getverified/verify.html"
+    },
+    {
+    "name":"Devals Beauty Touch Salon",
+    "phone":"07066453Not Verified",
+    "image":"1.jpg",
+    "location":"Etegwe",
+    "status":"Not Verified",
+    "link":"https://digibayelsa.github.io/getverified/verify.html"
+    },
+    {
+    "name":"Gift Frans Beauty Salon",
+    "phone":"07039227Not Verified",
+    "image":"3.jpg",
+    "location":"Etegwe",
+    "status":"Not Verified",
+    "link":"https://digibayelsa.github.io/getverified/verify.html"
+    },
+    {
+    "name":"ComfyBrown Signature",
+    "phone":"08129771Not Verified",
+    "image":"1.jpg",
+    "location":"Etegwe",
+    "status":"Not Verified",
+    "link":"https://digibayelsa.github.io/getverified/verify.html"
+    },
+    {
+    "name":"Judieez Hair World",
+    "phone":"08066024Not Verified",
+    "image":"2.jpg",
+    "location":"Opolo",
+    "status":"Not Verified",
+    "link":"https://digibayelsa.github.io/getverified/verify.html"
+    },
+    {
+    "name":"Iffy's Emporium Hair Salon",
+    "phone":"080-DIGINot Verified",
+    "image":"1.jpg",
+    "location":"Okutukutu",
+    "status":"Not Verified",
+    "link":"https://digibayelsa.github.io/getverified/verify.html"
+    },
+    {
+    "name":"Lady P Multi Purpose Beauty Salon",
+    "phone":"07032864Not Verified",
+    "image":"1.jpg",
+    "location":"Okutukutu",
+    "status":"Not Verified",
+    "link":"https://digibayelsa.github.io/getverified/verify.html"
+    },
+    {
+    "name":"De-Divine Unisex Salon",
+    "phone":"08035478Not Verified",
+    "image":"3.jpg",
+    "location":"Okutukutu",
+    "status":"Not Verified",
+    "link":"https://digibayelsa.github.io/getverified/verify.html"
+    },
+    {
+    "name":"Ebi Havana Beauty Salon",
+    "phone":"080-DIGINot Verified",
+    "image":"1.jpg",
+    "location":"Okutukutu",
+    "status":"Not Verified",
+    "link":"https://digibayelsa.github.io/getverified/verify.html"
+    },
+    {
+    "name":"Model Styles Unisex Salon",
+    "phone":"080-DIGINot Verified",
+    "image":"1.jpg",
+    "location":"Opolo",
+    "status":"Not Verified",
+    "link":"https://digibayelsa.github.io/getverified/verify.html"
+    },
+    {
+    "name":"Reja Hair & Beauty",
+    "phone":"07065660Not Verified",
+    "image":"2.jpg",
+    "location":"Okaka",
+    "status":"Not Verified",
+    "link":"https://digibayelsa.github.io/getverified/verify.html"
+    },
+    {
+    "name":"JC's Unisex Salon",
+    "phone":"08107858Not Verified",
+    "image":"2.jpg",
+    "location":"Biogbolo",
+    "status":"Not Verified",
+    "link":"https://digibayelsa.github.io/getverified/verify.html"
     }
     
   ]

@@ -1,79 +1,137 @@
 [{
+  "name":"DIGIBAYELSA",
+  "phone":"080-DIGINot Verified",
+  "image":"3.jpg",
+  "location":"Opolo",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"DIGIBAYELSA",
+  "phone":"080-DIGINot Verified",
+  "image":"2.jpg",
+  "location":"Ekeki",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },{
   "name":"New Generation idea Curtains",
-  "phone":"08067567-Not Verified",
+  "phone":"08067567Not Verified",
   "image":"1.jpg",
   "location":"Opolo",
-  "Status":"Not Verified"
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
   },
   {
   "name":"Wiz Works Curtain and Blinds",
-  "phone":"07088971-Not Verified",
-  "image":"2.jpg",
+  "phone":"07088971Not Verified",
+  "image":"1.jpg",
   "location":"Ekeki",
-  "Status":"Not Verified"
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
   },
   {
   "name":"Mmadu Interior Godwin",
-  "phone":"08063164-Not Verified",
-  "image":"1.jpg",
+  "phone":"08063164Not Verified",
+  "image":"2.jpg",
   "location":"Yenizuegene",
-  "Status":"Not Verified"
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
   },
   {
   "name":"Okwuvic Enterprise Nig Ltd",
-  "phone":"07063939-Not Verified",
-  "image":"2.jpg",
+  "phone":"07063939Not Verified",
+  "image":"3.jpg",
   "location":"Yenizuegene",
-  "Status":"Not Verified"
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
   },
   {
   "name":"Ebuka De Best",
-  "phone":"08105590-Not Verified",
-  "image":"1.jpg",
+  "phone":"08105590Not Verified",
+  "image":"3.jpg",
   "location":"Yenizuegene",
-  "Status":"Not Verified"
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
   },
   {
   "name":"Valentine's Curtains Concepts",
-  "phone":"08037452-Not Verified",
-  "image":"2.jpg",
+  "phone":"08037452Not Verified",
+  "image":"1.jpg",
   "location":"Yenizuegene",
-  "Status":"Not Verified"
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
   },
   {
   "name":"Chimex Interior Services",
-  "phone":"08037495-Not Verified",
-  "image":"2.jpg",
+  "phone":"08037495Not Verified",
+  "image":"3.jpg",
   "location":"Yenizuegene",
-  "Status":"Not Verified"
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
   },
   {
   "name":"Total Interior Designs",
-  "phone":"08137470-Not Verified",
-  "image":"3.jpg",
+  "phone":"08137470Not Verified",
+  "image":"2.jpg",
   "location":"Yenizuegene",
-  "Status":"Not Verified"
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
   },
   {
   "name":"D.C Interior",
-  "phone":"08060184-Not Verified",
-  "image":"3.jpg",
+  "phone":"08060184Not Verified",
+  "image":"2.jpg",
   "location":"Yenizuegene",
-  "Status":"Not Verified"
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
   },
   {
   "name":"Merrit Perfect Services Home Interior",
-  "phone":"08066158-Not Verified",
-  "image":"2.jpg",
+  "phone":"08066158Not Verified",
+  "image":"3.jpg",
   "location":"Ekeki",
-  "Status":"Not Verified"
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
   },
   {
   "name":"Bwhite Home Interiors and Gardens",
-  "phone":"080-DIGI-Not Verified",
-  "image":"1.jpg",
+  "phone":"08038328Not Verified",
+  "image":"3.jpg",
   "location":"Okutukutu",
-  "Status":"Not Verified"
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Tina Beddings and Interiors",
+  "phone":"08112984Not Verified",
+  "image":"1.jpg",
+  "location":"Ekeki",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Décor & Interior",
+  "phone":"08036720Not Verified",
+  "image":"1.jpg",
+  "location":"Etegwe",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Able God Oby",
+  "phone":"08034194Not Verified",
+  "image":"1.jpg",
+  "location":"Opolo",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/getverified/verify.html"
+  },
+  {
+  "name":"Davies Interior Home and Furniture",
+  "phone":"0703337323",
+  "image":"3.jpg",
+  "location":"Ekeki",
+  "status":"Not Verified",
+  "link":"https://digibayelsa.github.io/daviesinterior/"
   }
   
 ]
