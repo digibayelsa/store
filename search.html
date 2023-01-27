@@ -11,7 +11,8 @@
     
         <title>DigiBayelsa</title>
     
-    
+        <!-- modal CSS Files -->
+        <link rel="stylesheet" href="style.css">
         <!-- Additional CSS Files -->
         <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
     
@@ -31,7 +32,24 @@
     -->
         </head>
        <!-- <button id="myBtn" class="btn btn-one" style="width: 100% ; border: none; height: 100px ; background-color: rgb(104, 3, 219);  color: rgb(0, 0, 0); font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, serif; font-size: 39px;"  id="myBtn">See Business Info</button>-->
-    <section class="section" id="products">
+   <!-- Trigger/Open The Modal -->
+<button id="myBtn">Open Modal</button>
+
+<!-- The Modal -->
+<div id="myModal" class="modal">
+
+  <!-- Modal content -->
+  <div class="modal-content">
+    <span class="close">&times;</span>
+<h1>Business Name</h1>
+<h2>Business Name</h2>
+
+      <a href="https://www.facebook.com">Some text in the Modal..</a><br>
+         <a href="https://www.facebook.com">Some text in the Modal..</a>
+  </div>
+
+</div>
+       <section class="section" id="products">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -58,6 +76,8 @@
                         </div>
                         <div class="down-content">
                             <h4 id="busname">DigiBayelsa</h4>
+                            <a  href= "" > <span id="phone">  Contact info</a></span>
+                 
                             <span id="phone">   080-DIGI-BAY-342</span>
                             <a  href= "" id="weblink" > <span id="phone">   Goto Website</a></span>
                             <span id="location">  DIGI-BAY-LOCATION</span>
@@ -77,52 +97,7 @@
     <h4 id="buttompage"> </h4>
     <script src="business_search.js"></script>
     <style>
-        /* The Modal (background) */
-         
-        .modal {
-          display: none; /* Hidden by default */
-          position: fixed; /* Stay in place */
-          z-index: 1; /* Sit on top */
-          left: 0;
-          top: 0;
-          width: 100%; /* Full width */
-          height: 100%; /* Full height */
-          overflow: auto; /* Enable scroll if needed */
-          background-color: rgb(0,0,0); /* Fallback color */
-          background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
-          font-family:'Courier New', Courier, monospace;
-            font-size: 29px;
-        }
-        
-        /* Modal Content/Box */
-        .modal-content {
-          background-color: #fefefe;
-          margin: 15% auto; /* 15% from the top and centered */
-          padding: 20px;
-          border: 1px solid #888;
-          width: 80%; /* Could be more or less, depending on screen size */
-        }
-        
-        /* The Close Button */
-        .close {
-          color: #aaa;
-          float: right;
-          font-size: 28px;
-          font-weight: bold;
-        }
-        
-        .close:hover,
-        .close:focus {
-          color: black;
-          text-decoration: none;
-          cursor: pointer;
-        }
-        @import 'https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300';
-        
-        
-        
-        
-        
+              
         </style>
 
 <script>
@@ -188,7 +163,7 @@ var buslink='';
     var clone = elem.cloneNode(true);
     var a = document.getElementById("weblink"); //or grab it by tagname etc
     a.href =directory[i].split("#")[5];
-  
+    document.getElementById("viewinfo").innerHTML= "hehehe";
          document.getElementById("busname").innerHTML=directory[i].split("#")[0];
           document.getElementById("phone").innerHTML=directory[i].split("#")[1];
    // document.getElementById("prd1").innerHTML=directory[i].split(" ")[2];
@@ -208,6 +183,7 @@ elem.after(clone);
     storedata=storedata+1
     var elem = document.querySelector('#elem1');
     var clone = elem.cloneNode(true);
+   document.getElementById("viewinfocookie").innerHTML=directory[i]
          document.getElementById("busname").innerHTML=directory[i].split("#")[0];
           document.getElementById("phone").innerHTML=directory[i].split("#")[1];
    // document.getElementById("prd1").innerHTML=directory[i].split(" ")[2];
@@ -251,7 +227,54 @@ function get () {
       // sessionStorage.removeItem("KEY");
       // sessionStorage.clear();
     }
+    var storeglobal;
+function moreinfo(){
+   
+  var morebusinfo=document.getElementById("phone").innerHTML.split(" ")[1]
+storeglobal=directory[morebusinfo];
+//alert(storeglobal);
+
+
+}
+
+ //modal code starts
+ 
+// Get the modal
+var modal = document.getElementById("myModal");
+
+// Get the button that opens the modal
+var btn = document.getElementById("phone");
+
+// Get the <span> element that closes the modal
+var span = document.getElementsByClassName("close")[0];
+
+// When the user clicks the button, open the modal 
+btn.onclick = function() {
+  
+  modal.style.display = "block";
+}
+
+// When the user clicks on <span> (x), close the modal
+span.onclick = function() {
+  modal.style.display = "none";
+}
+
+// When the user clicks anywhere outside of the modal, close it
+window.onclick = function(event) {
+  if (event.target == modal) {
+    modal.style.display = "none";
+  }
+}
+
+
+
+
+
+
+ //mode code end
 
     
 </script>
+
+<p id="viewinfocookie"></p>
 </html>
