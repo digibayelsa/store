@@ -63,7 +63,7 @@
                             <h4 id="busname">DigiBayelsa</h4>
                             <a  href= ""  id="moreInfoo"  onclick="moreinfo()"   > <span  id="phone">  Contact info</a></span>
                  
-                            <span id="phone">   080-DIGI-BAY-342</span>
+                            <a href="tel:6031112298" id="phone">    <span id="phone">   080-DIGI-BAY-342  </a></span>
                             <a  href= "" onclick="moreinfo()" id="weblink" > <span id="phone">   Goto Website</a></span>
                             <span id="location">  DIGI-BAY-LOCATION</span>
                           <!--   <ul class="stars">
@@ -152,6 +152,7 @@ var buslink='';
     //document.getElementById("viewinfo").innerHTML= "hehehe";
          document.getElementById("busname").innerHTML=directory[i].split("#")[0];
           document.getElementById("phone").innerHTML=directory[i].split("#")[1];
+          document.getElementById("phone").href=directory[i].split("#")[1];
    // document.getElementById("prd1").innerHTML=directory[i].split(" ")[2];
     document.getElementById("location").innerHTML=directory[i].split("#")[3];
     document.getElementById("imgs").src="assets/images/"+directory[i].split("#")[2];
@@ -172,6 +173,7 @@ elem.after(clone);
    //document.getElementById("viewinfocookie").innerHTML=directory[i]
          document.getElementById("busname").innerHTML=directory[i].split("#")[0];
           document.getElementById("phone").innerHTML=directory[i].split("#")[1];
+          document.getElementById("phone").href=directory[i].split("#")[1];
    // document.getElementById("prd1").innerHTML=directory[i].split(" ")[2];
     document.getElementById("location").innerHTML=directory[i].split("#")[3];
     document.getElementById("imgs").src="assets/images/"+directory[i].split("#")[2];
