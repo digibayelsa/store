@@ -96,147 +96,73 @@ function jsonGetdata(){
  
     var str="";
     var search;
-const fetchPromise = fetch(first+'.json');
-
-
-
-fetchPromise.then((response) => {
-  const jsonPromise = response.json();
-  jsonPromise.then((data) => {
-   
-    
- //alert("inside fetch "+first);
-        for (let i=2;i<data.length;i++){
-      
-str=str+data[i].name +"# " +i + " "+data[i].phone+"#"+data[i].image+"#"+data[i].location+"#"+data[i].status+"#"+data[i].link;
-                    console.log(data[i].name +" "+data[i].phone+" "+data[i].image+" "+data[i].location+" "+data[i].link);
-                    directory[i]=str;
-                     str=" ";
-
-          
-            }
-                   
-            fetchPromise.then((response) => {
-                get () ;
-                Load_Business();
-                 
-        });
-//document.getElementById("para").innerHTML=str;
- 
+    fetch(`${first}.json`)
+  .then(response => response.json())
+  .then(data => {
+    data.slice(2).forEach((item, index) => {
+      const { name, phone, image, location, status, link } = item;
+      directory[index + 2] = `${name} #${index + 2} ${phone}#${image}#${location}#${status}#${link}`;
+      console.log(`${name} ${phone} ${image} ${location} ${link}`);
+    });
+    get();
+    Load_Business();
   });
-});
+
 
 }
+function Load_Business() {
+    // Initialize variables
+    let storedata = 0;
+    const elem = document.querySelector('#elem1');
 
+    // Loop through directory array
+    for (let i = 2; i < directory.length; i++) {
+        const loc = directory[i].split("#")[3];
+        if (loc == second || (second == "All Locations" && first != "CATEGORY")) {
+            // Increment storedata if data is found
+            storedata++;
 
+            // Clone element and update its content
+            const clone = elem.cloneNode(true);
+            clone.id = `elem${i}`;
+            clone.classList.add('text-large');
+            clone.querySelector("#busname").innerHTML = directory[i].split("#")[0];
+            clone.querySelector("#phone").href = directory[i].split("#")[1];
+            clone.querySelector("#phone2").innerHTML = "Click here to Call";
+            clone.querySelector("#location").innerHTML = directory[i].split("#")[3];
+            clone.querySelector("#imgs").src = `assets/images/${directory[i].split("#")[2]}`;
+            clone.querySelector("#weblink").href = directory[i].split("#")[5];
 
-function Load_Business(){
-     //var directory=["Shop1 0806-DIGI product1 product2 1.jpg","Shop2 0806-DIGI product1 product2 2.jpg","Shop3 080633-DIGI product1 product2 3.jpg","Shop4 0806-DIGI product1 product2 4.jpg","Shop5 0806-DIGI product1 product 5.jpg","Shop6 0806-DIGI product1 product2 6.jpg","Shop7 07050423665 product1 product2 7.jpg","Shop18 08062761608 product1 product2 8.jpg"];
-// Get the element
-// Create a copy of it
-//
-var newelem='';
-let storedata=0;
-var buslink='';
- // Update the ID and add a class
- for (let i =2;i<directory.length;i++){
- 
-    let loc=directory[i].split("#")[3];
- 
-            if(loc ==second){
-                storedata=storedata+1
-    var elem = document.querySelector('#elem1');
-    var clone = elem.cloneNode(true);
-    var a = document.getElementById("weblink"); //or grab it by tagname etc
-    a.href =directory[i].split("#")[5];
-    //document.getElementById("viewinfo").innerHTML= "hehehe";
-         document.getElementById("busname").innerHTML=directory[i].split("#")[0];
-        //  document.getElementById("phone2").innerHTML="Call Us ";
-          document.getElementById("phone").href=directory[i].split("#")[1];
-   document.getElementById("phone2").innerHTML="Click here to Call"
-    document.getElementById("location").innerHTML=directory[i].split("#")[3];
-    document.getElementById("imgs").src="assets/images/"+directory[i].split("#")[2];
-    
-    newelem='elem'+i; 
-   
-    clone.id = newelem;
-clone.classList.add('text-large');
-// Inject it into the DOM
-elem.after(clone);
-
- }
-  
- if(second=="All Locations" && first!="CATEGORY" ) {
-    storedata=storedata+1
-    var elem = document.querySelector('#elem1');
-    var clone = elem.cloneNode(true);
-   //document.getElementById("viewinfocookie").innerHTML=directory[i]
-         document.getElementById("busname").innerHTML=directory[i].split("#")[0];
-     //     document.getElementById("phone2").innerHTML="Call Us";
-          document.getElementById("phone").href=directory[i].split("#")[1];
-    document.getElementById("phone2").innerHTML="Click here to Call"
-    document.getElementById("location").innerHTML=directory[i].split("#")[3];
-    document.getElementById("imgs").src="assets/images/"+directory[i].split("#")[2];
-    var a = document.getElementById("weblink"); //or grab it by tagname etc
- 
-    a.href =directory[i].split("#")[5];
-  newelem='elem'+i; 
-    
-    clone.id = newelem;
-clone.classList.add('text-large');
-// Inject it into the DOM
-elem.after(clone);
-
- }
-
-}
-
-if (storedata==0){
-    document.getElementById("toppage").innerHTML="There is no Data for your Search!!";
-    document.getElementById("busname").innerHTML="Viosam Nig Ltd";
-    document.getElementById("phone").innerHTML="08062761608";
-    document.getElementById("location").innerHTML="Okutukutu";
- //   document.getElementById("imgs").src="assets/images/"+directory[i].split("#")[2];
-}
-}
-// get data from search
-function get () {
-
-   // alert("load session data");
-      // (A) GET FROM SESSION
-        first = sessionStorage.getItem("first"),
-          second = JSON.parse(sessionStorage.getItem("second"));
-//alert("i just got it "+first);
-      // (B) IT WORKS!
-      // MANUALLY OPENING 1B-SESSION.HTML WILL NOT WORK THOUGH
-      // SESSION DATA WILL PERISH ONCE TAB/WINDOW IS CLOSED
- 
-      console.log(first);  // Foo Bar
-      console.log(second); // ["Hello", "World"]
-
-      // (EXTRA) CLEAR SESSION STORAGE
-      // sessionStorage.removeItem("KEY");
-      // sessionStorage.clear();
+            // Inject cloned element into the DOM
+            elem.after(clone);
+        }
     }
-    var storeglobal;
-function moreinfo(){
-     if (document.getElementById("moreInfoo").href=="https://digibayelsa.github.io/getverified/verify.html"){
-        document.getElementById("toppage").innerHTML="There is no Data for your Search!!";
-    document.getElementById("busname").innerHTML="Viosam Nig Ltd";
-    document.getElementById("phone").innerHTML="08062761608";
-    document.getElementById("location").innerHTML="Okutukutu";
-       // alert("U click on nothing");
-     }
-     else{
-       // alert("There is something here!");
 
-     }
-// var morebusinfo=document.getElementById("phone").innerHTML.split(" ")[1]
-  //var morebusinfo=document.getElementById("phone2").innerText;
-//storeglobal=directory[morebusinfo];
-//alert(morebusinfo);
- 
+    // Update page if no data is found
+    if (storedata == 0) {
+        document.getElementById("toppage").innerHTML = "There is no Data for your Search!!";
+        document.getElementById("busname").innerHTML = "Viosam Nig Ltd";
+        document.getElementById("phone").innerHTML = "08062761608";
+        document.getElementById("location").innerHTML = "Okutukutu";
+    }
+}
 
+// Get data from session storage
+function get() {
+    first = sessionStorage.getItem("first");
+    second = sessionStorage.getItem("second");
+    console.log(first);
+    console.log(second);
+}
+
+// Update page with more information
+function moreinfo() {
+    if (document.getElementById("moreInfoo").href == "https://digibayelsa.github.io/getverified/verify.html") {
+        document.getElementById("toppage").innerHTML = "There is no Data for your Search!!";
+        document.getElementById("busname").innerHTML = "Viosam Nig Ltd";
+        document.getElementById("phone").innerHTML = "08062761608";
+        document.getElementById("location").innerHTML = "Okutukutu";
+    }
 }
 
  </script>

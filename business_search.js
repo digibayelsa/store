@@ -7,14 +7,6 @@ function activeSearch(){
   locsearch=document.getElementById("locselect").value;
   store();
 
-if (pick=="Boutique"){
-//alert("Oga ND");
-//window.open("search.html");
-store();
-}else{
-  store();
- // alert("Not Boutique");
-}
 }
 
 function store () {
@@ -28,13 +20,7 @@ second =locsearch;
   // SESSIONSTORAGE.SETITEM("KEY", "VALUE");
   sessionStorage.setItem("first", first);
   sessionStorage.setItem("second", second);
-  // (B2) ARRAY OR OBJECT
-  // SESSION STORAGE CANNOT STORE ARRAY AND OBJECTS
-  // JSON ENCODE BEFORE STORING, CONVERT TO STRING
-  sessionStorage.setItem("second", JSON.stringify(first));
-sessionStorage.setItem("second", JSON.stringify(second));
- 
   // (C) REDIRECT
   location.href = "search.html";
-  // window.open("1b-session.html");
+
 }
